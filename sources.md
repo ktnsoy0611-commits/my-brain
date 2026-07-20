@@ -1,5 +1,6 @@
 <!-- BEGIN app-managed:favorites -->
 ## お気に入り（アプリの設定画面から同期・直接編集しても上書きされます）
+- [wired.jp](https://wired.jp/)
 - [popeyemagazine.jp](https://popeyemagazine.jp/)
 - [tokyoartbeat.com](https://www.tokyoartbeat.com/)
 - [artscape.jp](https://artscape.jp/exhibitions/?area=tokyo)
