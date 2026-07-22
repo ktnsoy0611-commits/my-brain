@@ -2,9 +2,19 @@
 
 - 2026-07-22｜流した｜長谷川潔展 ── パリに生きた銅版画家の軌跡｜exhibition｜tokyoartbeat.com｜長谷川潔が誘うモノクロームの世界を伝える展覧会。
 - 2026-07-22｜流した｜眼のごちそう 食器｜exhibition｜tokyoartbeat.com｜約400年前のうつわに込められたメッセージをたどる展覧会。
+- 2026-07-22｜流した｜浅野井春奈 個展 「CrossThings」｜exhibition｜artscape.jp｜浅野井春奈による個展。VALLOON STUDIO SHIBUYAで開催される。
+- 2026-07-22｜流した｜没後20年 ナムジュン・パイク じゅげむ展｜exhibition｜bijutsutecho.com｜没後20年を記念したナムジュン・パイクの展覧会。ワタリウム美術館で開催される。
+- 2026-07-22｜流した｜日日日 Day by Day by Day｜exhibition｜artscape.jp｜日日日をテーマにした展覧会。Yoru Aozoraで開催される。
 - 2026-07-22｜流した｜新しい情報源: masagonia.com｜｜masagonia.com｜masagonia.com を情報源に加えました。良ければ右へスワイプして残し、合わなければ左へ。
+- 2026-07-22｜流した｜安武青架 個展「Silver Lining」｜exhibition｜artscape.jp｜安武青架による個展。Alt_Mediumで開催される。
+- 2026-07-22｜流した｜モチハコブカタチ 2026 ～小学生を元気に 通学鞄のデザイン～｜exhibition｜artscape.jp｜小学生の通学鞄のデザインに焦点を当てた展覧会。世界のカバン博物館で開催される。
+- 2026-07-22｜流した｜マツモトタカヒロ 個展 「BEACH CRAFT WORKS」｜exhibition｜artscape.jp｜マツモトタカヒロによる個展。ギャラリー同潤会 gallery dojunkaiで開催される。
+- 2026-07-22｜流した｜NEW TRUTH / 新・真実｜exhibition｜artscape.jp｜新・真実をテーマにした展覧会。NEORT++で開催される。
 - 2026-07-22｜流した｜Fault Lines｜exhibition｜tokyoartbeat.com｜異なる文化的背景を持つ10名の女性アーティストによるグループ展。
+- 2026-07-22｜残した｜炭・光・空間表現をテーマにしたグループ展「自然のデザイン」｜exhibition｜artscape.jp｜炭・光・空間表現をテーマにしたグループ展。Seibundo Galleryで開催される。
 - 2026-07-22｜残した｜工事仮囲いアートプロジェクト「渋谷松濤ウォールギャラリー」｜exhibition｜tokyoartbeat.com｜第1弾アーティストに写真家・川内倫子を起用したアートプロジェクト。
+- 2026-07-22｜残した｜ダフィ・クーネ：ポスターを構築する ―形をつくる、版をつくる、表現をつくる―｜exhibition｜artscape.jp｜ダフィ・クーネのポスター制作に焦点を当てた展覧会。ギンザ・グラフィック・ギャラリー（ggg）で開催される。
+- 2026-07-22｜残した｜GOOD GOODS ISSEY MIYAKE「GOOD PRINTER」｜exhibition｜artscape.jp｜GOOD GOODS ISSEY MIYAKEによる展覧会。ISSEY MIYAKE GINZA | CUBEで開催される。
 - 2026-07-21｜流した｜藤田嗣治 生誕140周年企画｜exhibition｜tokyoartbeat.com｜迎賓館赤坂離宮で開催される、藤田嗣治の非公開作品を国宝で特別展示する企画。
 - 2026-07-21｜流した｜没後50年 髙島野十郎展｜exhibition｜tokyoartbeat.com｜渋谷区立松濤美術館で開催される、孤高の画家・髙島野十郎の光と闇の写実に迫る展覧会。
 - 2026-07-21｜流した｜没後20年 ナムジュン・パイク じゅげむ展｜exhibition｜bijutsutecho.com｜ワタリウム美術館で開催される、没後20年を記念したナムジュン・パイクの展覧会。
