@@ -5,3 +5,4 @@
 - https://menomeonline.com/
 - https://www.kogei-seika.jp/
 - https://critique.aicajapan.com/
+- https://www.hirorocafe.com/
