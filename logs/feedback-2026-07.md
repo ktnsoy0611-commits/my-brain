@@ -1,6 +1,7 @@
 # feedback log（自動生成: 反応の記録。分析はしません。1年より古い月は自動削除されます）
 
 - 2026-07-22｜流した｜長谷川潔展 ── パリに生きた銅版画家の軌跡｜exhibition｜tokyoartbeat.com｜長谷川潔が誘うモノクロームの世界を伝える展覧会。
+- 2026-07-22｜流した｜遠藤保子 個展「ここでおきたことはたぶん説明できない」｜exhibition｜artscape.jp｜ART FACTORY城南島で開催される個展。
 - 2026-07-22｜流した｜眼のごちそう 食器｜exhibition｜tokyoartbeat.com｜約400年前のうつわに込められたメッセージをたどる展覧会。
 - 2026-07-22｜流した｜浅野井春奈 個展 「CrossThings」｜exhibition｜artscape.jp｜浅野井春奈による個展。VALLOON STUDIO SHIBUYAで開催される。
 - 2026-07-22｜流した｜没後20年 ナムジュン・パイク じゅげむ展｜exhibition｜bijutsutecho.com｜没後20年を記念したナムジュン・パイクの展覧会。ワタリウム美術館で開催される。
@@ -10,8 +11,10 @@
 - 2026-07-22｜流した｜モチハコブカタチ 2026 ～小学生を元気に 通学鞄のデザイン～｜exhibition｜artscape.jp｜小学生の通学鞄のデザインに焦点を当てた展覧会。世界のカバン博物館で開催される。
 - 2026-07-22｜流した｜マツモトタカヒロ 個展 「BEACH CRAFT WORKS」｜exhibition｜artscape.jp｜マツモトタカヒロによる個展。ギャラリー同潤会 gallery dojunkaiで開催される。
 - 2026-07-22｜流した｜NEW TRUTH / 新・真実｜exhibition｜artscape.jp｜新・真実をテーマにした展覧会。NEORT++で開催される。
+- 2026-07-22｜流した｜ICC アニュアル 2026 遺す／残る／受けとめる｜exhibition｜artscape.jp｜NTTインターコミュニケーション・センター [ICC]で開催される展覧会。
 - 2026-07-22｜流した｜Fault Lines｜exhibition｜tokyoartbeat.com｜異なる文化的背景を持つ10名の女性アーティストによるグループ展。
 - 2026-07-22｜残した｜炭・光・空間表現をテーマにしたグループ展「自然のデザイン」｜exhibition｜artscape.jp｜炭・光・空間表現をテーマにしたグループ展。Seibundo Galleryで開催される。
+- 2026-07-22｜残した｜江戸のお仕事ガイド －海で働く、町や大名屋敷で商う－｜exhibition｜artscape.jp｜港区立郷土歴史館で開催される展覧会。
 - 2026-07-22｜残した｜工事仮囲いアートプロジェクト「渋谷松濤ウォールギャラリー」｜exhibition｜tokyoartbeat.com｜第1弾アーティストに写真家・川内倫子を起用したアートプロジェクト。
 - 2026-07-22｜残した｜ダフィ・クーネ：ポスターを構築する ―形をつくる、版をつくる、表現をつくる―｜exhibition｜artscape.jp｜ダフィ・クーネのポスター制作に焦点を当てた展覧会。ギンザ・グラフィック・ギャラリー（ggg）で開催される。
 - 2026-07-22｜残した｜GOOD GOODS ISSEY MIYAKE「GOOD PRINTER」｜exhibition｜artscape.jp｜GOOD GOODS ISSEY MIYAKEによる展覧会。ISSEY MIYAKE GINZA | CUBEで開催される。
