@@ -1,5 +1,12 @@
 # feedback log（自動生成: 反応の記録。分析はしません。1年より古い月は自動削除されます）
 
+- 2026-07-23｜流した｜浅野井春奈 個展 「CrossThings」｜exhibition｜artscape.jp｜VALLOON STUDIO SHIBUYAで開催される浅野井春奈の個展。
+- 2026-07-23｜流した｜没後20年 ナムジュン・パイク じゅげむ展｜exhibition｜bijutsutecho.com｜ワタリウム美術館で開催されるナムジュン・パイクの展覧会。
+- 2026-07-23｜流した｜日日日 Day by Day by Day｜exhibition｜artscape.jp｜Yoru Aozoraで開催される展覧会。
+- 2026-07-23｜流した｜安武青架 個展「Silver Lining」｜exhibition｜artscape.jp｜Alt_Mediumで開催される安武青架の個展。
+- 2026-07-23｜流した｜モチハコブカタチ 2026 ～小学生を元気に 通学鞄のデザイン～｜exhibition｜artscape.jp｜世界のカバン博物館で開催される展覧会。
+- 2026-07-23｜流した｜マツモトタカヒロ 個展 「BEACH CRAFT WORKS」｜exhibition｜artscape.jp｜ギャラリー同潤会 gallery dojunkaiで開催されるマツモトタカヒロの個展。
+- 2026-07-23｜流した｜NEW TRUTH / 新・真実｜exhibition｜artscape.jp｜NEORT++で開催される展覧会。
 - 2026-07-22｜流した｜長谷川潔展 ── パリに生きた銅版画家の軌跡｜exhibition｜tokyoartbeat.com｜長谷川潔が誘うモノクロームの世界を伝える展覧会。
 - 2026-07-22｜流した｜遠藤保子 個展「ここでおきたことはたぶん説明できない」｜exhibition｜artscape.jp｜ART FACTORY城南島で開催される個展。
 - 2026-07-22｜流した｜眼のごちそう 食器｜exhibition｜tokyoartbeat.com｜約400年前のうつわに込められたメッセージをたどる展覧会。
