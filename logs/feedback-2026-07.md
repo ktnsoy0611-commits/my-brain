@@ -1,6 +1,10 @@
 # feedback log（自動生成: 反応の記録。分析はしません。1年より古い月は自動削除されます）
 
+- 2026-07-24｜流した｜ティム・バートンのラビリンス｜exhibition｜tokyoartbeat.com｜日本初上陸となる没入型展覧会がCREVIA BASE Tokyoで開催される。
+- 2026-07-24｜残した｜三嶋りつ惠によるガラスのインスタレーション｜exhibition｜tokyoartbeat.com｜新作を含むガラスのインスタレーションをボッテガ・ヴェネタ表参道フラッグシップで展示する。
+- 2026-07-24｜残した｜HUMAN AND NATURE｜exhibition｜tokyoartbeat.com｜新スペース「東京ミッドタウン日比谷 ホール」のこけら落としとなる平子雄一の大規模個展。
 - 2026-07-23｜流した｜浅野井春奈 個展 「CrossThings」｜exhibition｜artscape.jp｜VALLOON STUDIO SHIBUYAで開催される浅野井春奈の個展。
+- 2026-07-23｜流した｜没後70年 映画監督 溝口健二｜exhibition｜artscape.jp｜国立映画アーカイブで開催される溝口健二監督の回顧展。
 - 2026-07-23｜流した｜没後20年 ナムジュン・パイク じゅげむ展｜exhibition｜bijutsutecho.com｜ワタリウム美術館で開催されるナムジュン・パイクの展覧会。
 - 2026-07-23｜流した｜日日日 Day by Day by Day｜exhibition｜artscape.jp｜Yoru Aozoraで開催される展覧会。
 - 2026-07-23｜流した｜安武青架 個展「Silver Lining」｜exhibition｜artscape.jp｜Alt_Mediumで開催される安武青架の個展。
