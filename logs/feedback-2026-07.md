@@ -1,5 +1,16 @@
 # feedback log（自動生成: 反応の記録。分析はしません。1年より古い月は自動削除されます）
 
+- 2026-07-26｜流した｜新海友樹子個展「誰でもない身体」｜exhibition｜artscape.jp｜日本橋N11ギャラリーで開催される展覧会。
+- 2026-07-26｜流した｜めぐってたのしい 佐賀・長崎のやきもの展｜exhibition｜artscape.jp｜戸栗美術館で開催される展覧会。
+- 2026-07-26｜流した｜Original Copy｜exhibition｜artscape.jp｜KOTARO NUKAGA 六本木で開催される展覧会。
+- 2026-07-26｜流した｜NEW TRUTH / 新・真実｜exhibition｜artscape.jp｜NEORT++で開催される展覧会。
+- 2026-07-26｜流した｜Jakuson Hakudoってだれ？？悠久なる中国陶磁の旅｜exhibition｜artscape.jp｜東京黎明アートルームで開催される展覧会。
+- 2026-07-26｜残した｜吉岡雅哉「コンビニと階段」｜exhibition｜artscape.jp｜みんなのギャラリーで開催される展覧会。
+- 2026-07-25｜流した｜毛利悠子 Recompose ― 第60回ヴェネチア・ビエンナーレ日本館帰国展｜exhibition｜tokyoartbeat.com｜横浜美術館で開催された「毛利悠子 Recompose ― 第60回ヴェネチア・ビエンナーレ日本館帰国展」のレポート。
+- 2026-07-25｜流した｜暗闇をくぐってみたら Part2 笹岡由梨子展『渦巻』｜exhibition｜tokyoartbeat.com｜市原湖畔美術館で開催された笹岡由梨子展『渦巻』のレポート。
+- 2026-07-25｜流した｜ムーンアートナイト下北沢2026｜exhibition｜tokyoartbeat.com｜「月」のアートが下北沢を彩るイベントが9月から開催される。
+- 2026-07-25｜流した｜ティム・バートンのラビリンス｜exhibition｜tokyoartbeat.com｜CREVIA BASE Tokyoで開催される没入型展覧会「ティム・バートンのラビリンス」の日本初上陸開催。
+- 2026-07-25｜流した｜KOTOVA 渋谷センター街展｜exhibition｜tokyoartbeat.com｜渋谷センター街にて、46人の作家、歌人、芸人が「ことば」を展示する展覧会。
 - 2026-07-24｜流した｜角田響、内島芽海 二人展「どこへいくの」｜exhibition｜artscape.jp｜Alt_Mediumで開催される角田響と内島芽海の二人展。
 - 2026-07-24｜流した｜浅野井春奈 個展 「CrossThings」｜exhibition｜artscape.jp｜VALLOON STUDIO SHIBUYAで開催される浅野井春奈の個展。
 - 2026-07-24｜流した｜没後20年 ナムジュン・パイク じゅげむ展｜exhibition｜artscape.jp｜ワタリウム美術館で開催されるナムジュン・パイクの展覧会。
