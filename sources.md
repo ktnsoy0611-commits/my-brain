@@ -3,7 +3,6 @@
 - [qui.tokyo](https://qui.tokyo/)
 - [wired.jp](https://wired.jp/)
 - [popeyemagazine.jp](https://popeyemagazine.jp/)
-- [tokyoartbeat.com](https://www.tokyoartbeat.com/)
 - [artscape.jp](https://artscape.jp/exhibitions/?area=tokyo)
 <!-- END app-managed:favorites -->
 
