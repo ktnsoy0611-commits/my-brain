@@ -4,3 +4,4 @@
 - https://www.hirorocafe.com/
 - https://masagonia.com/
 - https://architecturephoto.net/
+- https://ogitaka.com/
