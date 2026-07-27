@@ -3,3 +3,4 @@
 - https://yamakenlab.com/
 - https://www.hirorocafe.com/
 - https://masagonia.com/
+- https://architecturephoto.net/
