@@ -1,5 +1,9 @@
 # feedback log（自動生成: 反応の記録。分析はしません。1年より古い月は自動削除されます）
 
+- 2026-07-27｜流した｜新しい情報源: architecturephoto.net｜｜architecturephoto.net｜architecturephoto.net を情報源に加えました。良ければ右へスワイプして残し、合わなければ左へ。
+- 2026-07-27｜流した｜TENNOZ ART WEEK 2026｜exhibition｜tokyoartbeat.com｜東京・天王洲にて寺田倉庫による回遊型アートイベントが開催される。
+- 2026-07-27｜残した｜可愛いだけじゃない！？ピングー展｜exhibition｜tokyoartbeat.com｜45周年のピングーが有楽町の新スポットYURAKUCHO MUSEUMで開催される。
+- 2026-07-27｜残した｜Ryuichi Sakamoto & Tin Drum | KAGAMI+｜exhibition｜tokyoartbeat.com｜VS.で開催される展覧会。
 - 2026-07-26｜流した｜新海友樹子個展「誰でもない身体」｜exhibition｜artscape.jp｜日本橋N11ギャラリーで開催される展覧会。
 - 2026-07-26｜流した｜めぐってたのしい 佐賀・長崎のやきもの展｜exhibition｜artscape.jp｜戸栗美術館で開催される展覧会。
 - 2026-07-26｜流した｜Original Copy｜exhibition｜artscape.jp｜KOTARO NUKAGA 六本木で開催される展覧会。
