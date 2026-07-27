@@ -5,3 +5,4 @@
 - https://masagonia.com/
 - https://architecturephoto.net/
 - https://ogitaka.com/
+- https://geeksblog.jp/
