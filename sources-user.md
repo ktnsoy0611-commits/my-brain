@@ -9,3 +9,7 @@
 - https://masagonia.com/
 - https://architecturephoto.net/
 - https://ogitaka.com/
+- https://geeksblog.jp/
+- https://note.com/gakugeiin
+- https://junkissa.blog/
+- https://www.tokyoartbeat.com/
