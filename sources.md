@@ -4,7 +4,6 @@
 - [qui.tokyo](https://qui.tokyo/)
 - [wired.jp](https://wired.jp/)
 - [popeyemagazine.jp](https://popeyemagazine.jp/)
-- [artscape.jp](https://artscape.jp/exhibitions/?area=tokyo)
 <!-- END app-managed:favorites -->
 
 <!-- ここから下は自由に追記できます。例えばCoworkが発掘した情報源を
