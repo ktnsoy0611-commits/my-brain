@@ -1,5 +1,6 @@
 <!-- BEGIN app-managed:favorites -->
 ## お気に入り（アプリの設定画面から同期・直接編集しても上書きされます）
+- [brutus.jp](https://brutus.jp/)
 - [fashionsnap.com](https://www.fashionsnap.com/)
 - [fudge.jp](https://fudge.jp/)
 - [qui.tokyo](https://qui.tokyo/)
