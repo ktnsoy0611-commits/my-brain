@@ -1,5 +1,6 @@
 <!-- BEGIN app-managed:favorites -->
 ## お気に入り（アプリの設定画面から同期・直接編集しても上書きされます）
+- [axismag.jp](https://www.axismag.jp/)
 - [eyescream.jp](https://eyescream.jp/)
 - [gqjapan.jp](https://www.gqjapan.jp/)
 - [ginzamag.com](https://ginzamag.com/)
