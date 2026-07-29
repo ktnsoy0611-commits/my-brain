@@ -1,5 +1,6 @@
 <!-- BEGIN app-managed:favorites -->
 ## お気に入り（アプリの設定画面から同期・直接編集しても上書きされます）
+- [casabrutus.com](https://casabrutus.com/)
 - [pen-online.jp](https://www.pen-online.jp/)
 - [brutus.jp](https://brutus.jp/)
 - [fashionsnap.com](https://www.fashionsnap.com/)
