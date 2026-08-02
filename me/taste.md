@@ -1,3 +1,7 @@
+---
+owner: cowork
+updated: 2026-08-02
+---
 # taste-state（夜間の分析Cronが自動生成・上書きします）
 
 ## 生活圏
