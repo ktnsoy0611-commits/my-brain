@@ -1,3 +1,7 @@
+---
+owner: cowork
+updated: 2026-08-02
+---
 # taste-analysis（生成日: 2026-07-30）
 
 ## 安定した好み
