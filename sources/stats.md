@@ -3,18 +3,23 @@
 各行は「ドメイン｜出した数（スワイプで決定済み）｜残した数（KEEP）｜打率｜旗（質が低いと申告された数）」。
 打率 = 残した ÷ 出した。出した数が少ないサイトは判断材料が足りないので淘汰しないこと。
 
-- artscape.jp｜出した2｜残した2｜打率100%｜旗0
-- niewmedia.com｜出した1｜残した1｜打率100%｜旗0
-- qui.tokyo｜出した4｜残した1｜打率25%｜旗0
-- bijutsutecho.com｜出した5｜残した1｜打率20%｜旗0
-- axismag.jp｜出した3｜残した0｜打率0%｜旗0
+- fudge.jp｜出した1｜残した1｜打率100%｜旗0
+- popeyemagazine.jp｜出した1｜残した1｜打率100%｜旗0
+- artscape.jp｜出した4｜残した2｜打率50%｜旗0
+- fashionsnap.com｜出した2｜残した1｜打率50%｜旗0
+- niewmedia.com｜出した3｜残した1｜打率33%｜旗0
+- casabrutus.com｜出した3｜残した1｜打率33%｜旗0
+- ginzamag.com｜出した3｜残した1｜打率33%｜旗0
+- qui.tokyo｜出した6｜残した1｜打率17%｜旗0
+- bijutsutecho.com｜出した8｜残した1｜打率13%｜旗0
+- axismag.jp｜出した5｜残した0｜打率0%｜旗0
 - brutus.jp｜出した2｜残した0｜打率0%｜旗0
+- eyescream.jp｜出した2｜残した0｜打率0%｜旗0
+- pen-online.jp｜出した2｜残した0｜打率0%｜旗0
+- andpremium.jp｜出した2｜残した0｜打率0%｜旗0
+- eiga.com｜出した2｜残した0｜打率0%｜旗0
 - geeksblog.jp｜出した1｜残した0｜打率0%｜旗0
 - tokyoartbeat.com｜出した1｜残した0｜打率0%｜旗0
 - gqjapan.jp｜出した1｜残した0｜打率0%｜旗0
-- eyescream.jp｜出した1｜残した0｜打率0%｜旗0
 - wired.jp｜出した1｜残した0｜打率0%｜旗0
-- casabrutus.com｜出した1｜残した0｜打率0%｜旗0
-- ginzamag.com｜出した1｜残した0｜打率0%｜旗0
-- fashionsnap.com｜出した1｜残した0｜打率0%｜旗0
-- pen-online.jp｜出した1｜残した0｜打率0%｜旗0
+- spincoaster.com｜出した1｜残した0｜打率0%｜旗0
