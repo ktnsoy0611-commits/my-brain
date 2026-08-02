@@ -26,9 +26,14 @@ updated: 2026-08-02
 
 <!-- BEGIN cowork:discovered -->
 ## 発掘した情報源（打率が高い順）
-- [アーキテクチャーフォト](https://architecturephoto.net/) — 設計者本人へのインタビューで納まりや仕上げ材の選定意図まで踏み込む建築メディア。藤田雄介インタビューでは框10mm単位の印象の違いまで語られ、Aboutの「minimal editing」という編集方針とも一致していた
-- [名作家具とデザインの話](https://ogitaka.com/) — ハーマンミラー正規販売店経営者によるイームズ史・家具相場の専門ブログ。「イームズがハーマンミラー社を選んだ理由」では資料の限界を自覚した上での独自の推論を展開していた
-- [Geeks](https://geeksblog.jp/) — 古着屋バイヤー8年の経験を持つ書き手による、Stone Island・C.P. Company・Margielaなどのブランドタグ考証ブログ。年代判別の根拠を複数ディテールの組み合わせで示し、真贋不明な点も率直に書いていた
-- [ちいさな美術館の学芸員](https://note.com/gakugeiin) — 元学芸員・現大学教員による美術館運営分析。府中市美術館の「春の江戸絵画まつり」戦略を「学芸員の調査力と広報戦略の両面で抜きん出ている」と評した記事に、実物鑑賞の価値への独自の主張があった
-- [んねの全国純喫茶巡礼](https://junkissa.blog/) — 実際に足を運んだ個人による喫茶店記録。六曜社地下店のドーナツが「平岡珈琲店を想起させる」という推測を後日店に確認して裏付けるなど、独自の一次観察があった
+- [CINRA](https://www.cinra.net/) — 音楽・映画・アート・書籍を横断する総合カルチャーメディア。鳥飼茜（漫画家）インタビューなど書き手の視点が明確な取材記事が並び、niewmedia.comやqui.tokyoに近い編集姿勢
+- [COLOCAL](https://colocal.jp/) — マガジンハウス運営、月替わりで地域文化を深掘りする特集メディア。奈良・石川特集など郷土史・ものづくりに直結する取材記事があり、casabrutus.comやbrutus.jpと同じ版元らしい編集の質
+- [IMA ONLINE](https://imaonline.jp/) — 写真・アート専門メディア。「いけばなと写真」インタヴューなど独自取材記事があり、写真展巡りの関心に直結。pen-online.jpに近い質感
+- [Dezeen](https://www.dezeen.com/) — 建築・デザインの国際的専門メディア。「Martin Hopp Architects creates mass-timber school in New York」など連日更新される署名記事があり、axismag.jpやcasabrutus.comと同系統
+- [Hyperallergic](https://hyperallergic.com/) — 現代美術批評・カルチャー報道の独立系メディア。署名記事が中心で、ginzamag.comに近いアート系オリジナル記事
+- [Numero TOKYO](https://numero.jp/) — ファッション・アート・カルチャーを横断するモード誌。ルメール特集など編集記事が並び、gqjapan.jpやandpremium.jpに近い
+- [HOUYHNHNM](https://www.houyhnhnm.jp/) — ストリート/ファッションカルチャーのWebマガジン。連載「憧れの逸品」など毎日更新があり、eyescream.jpに最も近い系統
+- [Sabukaru](https://sabukaru.online/) — 日本・東アジアのサブカルチャー（音楽・ファッション・建築）を扱う独立系メディア。頻繁に更新され、eyescream.jpやqui.tokyoに近いストリート/カルチャー誌
+- [It's Nice That](https://www.itsnicethat.com/) — 2007年創刊のクリエイティブ/デザイン専門メディア。デザイナー本人へのインタビューなど一次取材記事があり、axismag.jpに近い
+- [Rolling Stone Japan](https://rollingstonejapan.com/) — 音楽を軸にカルチャーを扱う総合メディア。ツアーレポートやライブレポートが頻繁に更新され、gqjapan.jpやeyescream.jpに近い総合カルチャーニュース系統
 <!-- END cowork:discovered -->
