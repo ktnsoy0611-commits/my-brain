@@ -4,6 +4,7 @@ updated: 2026-08-02
 ---
 <!-- BEGIN app-managed:favorites -->
 ## お気に入り（アプリの設定画面から同期・直接編集しても上書きされます）
+- [colocal.jp](https://colocal.jp/)
 - [spincoaster.com](https://spincoaster.com/)
 - [niewmedia.com](https://niewmedia.com/)
 - [axismag.jp](https://www.axismag.jp/)
