@@ -5,6 +5,7 @@
 
 - fudge.jp｜出した1｜残した1｜打率100%｜旗0
 - popeyemagazine.jp｜出した1｜残した1｜打率100%｜旗0
+- colocal.jp｜出した1｜残した1｜打率100%｜旗0
 - artscape.jp｜出した4｜残した2｜打率50%｜旗0
 - fashionsnap.com｜出した2｜残した1｜打率50%｜旗0
 - niewmedia.com｜出した3｜残した1｜打率33%｜旗0
