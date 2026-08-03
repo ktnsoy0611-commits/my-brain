@@ -7,3 +7,4 @@
 - https://ogitaka.com/
 - https://geeksblog.jp/
 - https://www.cinra.net/
+- https://colocal.jp/
