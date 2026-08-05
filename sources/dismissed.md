@@ -14,3 +14,4 @@
 - https://junkissa.blog/
 - https://www.tokyoartbeat.com/
 - https://artscape.jp/exhibitions/?area=tokyo
+- https://www.dezeen.com/
