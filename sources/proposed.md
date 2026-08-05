@@ -9,3 +9,4 @@
 - https://www.cinra.net/
 - https://colocal.jp/
 - https://imaonline.jp/
+- https://www.dezeen.com/
