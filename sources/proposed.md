@@ -10,3 +10,4 @@
 - https://colocal.jp/
 - https://imaonline.jp/
 - https://www.dezeen.com/
+- https://hyperallergic.com/
