@@ -11,3 +11,4 @@
 - https://imaonline.jp/
 - https://www.dezeen.com/
 - https://hyperallergic.com/
+- https://numero.jp/
