@@ -12,3 +12,4 @@
 - https://www.dezeen.com/
 - https://hyperallergic.com/
 - https://numero.jp/
+- https://www.houyhnhnm.jp/
