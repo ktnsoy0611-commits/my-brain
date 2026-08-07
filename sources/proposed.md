@@ -13,3 +13,4 @@
 - https://hyperallergic.com/
 - https://numero.jp/
 - https://www.houyhnhnm.jp/
+- https://sabukaru.online/
