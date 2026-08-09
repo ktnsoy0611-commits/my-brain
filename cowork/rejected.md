@@ -30,3 +30,12 @@
 - http://indietokyo.com/ — 独立系の映画批評メディアだが最新記事が2022年5月で直近3か月の更新が無い
 - https://eyeondesign.aiga.org/ — 2024年6月に運営終了・アーカイブ化されており新規記事が無い
 - https://www.frieze.com/ — 全記事の閲覧に会員登録・サインインが必要なペイウォールがある
+- https://hypebeast.com/jp — Bot対策のWAFチャレンジで本文を取得できず、実質アクセス不可
+- https://fashion-press.net/ — ブランドの新作発表・プレスリリース的投稿が中心で、独自視点を持つ編集記事に乏しい
+- https://soen.co.jp/ — 装苑本誌とは無関係の長崎の内装工事会社のサイトで、雑誌媒体ではない
+- https://block.fm/ — フルclient-side renderingで本文を確認できず、フッターの著作権表示も2011-2021年で止まっており更新状況が不明
+- https://heapsmag.com/ — 最新記事が2025年5月で、直近3か月の更新が無い
+- https://realkyoto.jp/ — 最新記事が2020年で、更新が長期間止まっている
+- https://www.frameweb.com/ — 決済・ログイン導線が確認され、有料購読が前提とみられる
+- https://metropolisjapan.com/ — 「BBQガイド」「浴衣の着こなし」など観光ガイド的なまとめ記事が中心で、見本サイトと系統が異なる
+- https://kogei-standard.jp/ — ドメインが解決せず実在確認できない
