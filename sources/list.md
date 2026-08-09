@@ -4,6 +4,7 @@ updated: 2026-08-02
 ---
 <!-- BEGIN app-managed:favorites -->
 ## お気に入り（アプリの設定画面から同期・直接編集しても上書きされます）
+- [houyhnhnm.jp](https://www.houyhnhnm.jp/)
 - [imaonline.jp](https://imaonline.jp/)
 - [colocal.jp](https://colocal.jp/)
 - [spincoaster.com](https://spincoaster.com/)
