@@ -15,3 +15,4 @@
 - https://www.houyhnhnm.jp/
 - https://sabukaru.online/
 - https://www.itsnicethat.com/
+- https://rollingstonejapan.com/
