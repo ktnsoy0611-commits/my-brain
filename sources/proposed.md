@@ -16,3 +16,4 @@
 - https://sabukaru.online/
 - https://www.itsnicethat.com/
 - https://rollingstonejapan.com/
+- https://discoverjapan-web.com/
