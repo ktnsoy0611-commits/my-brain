@@ -17,3 +17,4 @@
 - https://www.itsnicethat.com/
 - https://rollingstonejapan.com/
 - https://discoverjapan-web.com/
+- https://www.designboom.com/
