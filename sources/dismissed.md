@@ -15,3 +15,5 @@
 - https://www.tokyoartbeat.com/
 - https://artscape.jp/exhibitions/?area=tokyo
 - https://www.dezeen.com/
+- https://discoverjapan-web.com/
+- https://www.designboom.com/
