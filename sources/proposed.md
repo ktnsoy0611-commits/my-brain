@@ -19,3 +19,4 @@
 - https://discoverjapan-web.com/
 - https://www.designboom.com/
 - https://pinupmagazine.org/
+- https://www.vogue.co.jp/
