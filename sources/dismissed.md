@@ -17,3 +17,5 @@
 - https://www.dezeen.com/
 - https://discoverjapan-web.com/
 - https://www.designboom.com/
+- https://www.elle.com/jp/
+- https://pinupmagazine.org/
