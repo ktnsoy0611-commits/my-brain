@@ -20,3 +20,4 @@
 - https://www.designboom.com/
 - https://pinupmagazine.org/
 - https://www.vogue.co.jp/
+- https://www.elle.com/jp/
