@@ -21,3 +21,4 @@
 - https://pinupmagazine.org/
 - https://www.vogue.co.jp/
 - https://www.elle.com/jp/
+- https://www.esquire.com/jp/
