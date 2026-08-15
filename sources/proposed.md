@@ -22,3 +22,4 @@
 - https://www.vogue.co.jp/
 - https://www.elle.com/jp/
 - https://www.esquire.com/jp/
+- https://www.highsnobiety.com/
