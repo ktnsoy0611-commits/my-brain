@@ -23,3 +23,4 @@
 - https://www.elle.com/jp/
 - https://www.esquire.com/jp/
 - https://www.highsnobiety.com/
+- https://realsound.jp/
