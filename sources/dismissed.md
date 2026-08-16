@@ -19,3 +19,4 @@
 - https://www.designboom.com/
 - https://www.elle.com/jp/
 - https://pinupmagazine.org/
+- https://realsound.jp/
