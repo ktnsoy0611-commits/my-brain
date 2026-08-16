@@ -39,3 +39,6 @@
 - https://www.frameweb.com/ — 決済・ログイン導線が確認され、有料購読が前提とみられる
 - https://metropolisjapan.com/ — 「BBQガイド」「浴衣の着こなし」など観光ガイド的なまとめ記事が中心で、見本サイトと系統が異なる
 - https://kogei-standard.jp/ — ドメインが解決せず実在確認できない
+- https://studiovoice.jp/ — トップページに記事一覧・ニュース欄がなく、確認できた最新の号情報は2019年で継続更新の形跡なし
+- https://theface.com/ — 運営会社の経営交代により2026年時点で休刊中（"will return"の告知のみ）で記事配信なし
+- https://www.documentjournal.com/ — 記事の質は高いが最新記事が2025年12月で、直近3か月以内の更新が無い
