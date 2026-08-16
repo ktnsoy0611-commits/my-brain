@@ -24,3 +24,4 @@
 - https://www.esquire.com/jp/
 - https://www.highsnobiety.com/
 - https://realsound.jp/
+- https://www.ele-king.net/
