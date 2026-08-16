@@ -25,3 +25,4 @@
 - https://www.highsnobiety.com/
 - https://realsound.jp/
 - https://www.ele-king.net/
+- https://qetic.jp/
