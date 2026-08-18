@@ -26,3 +26,4 @@
 - https://realsound.jp/
 - https://www.ele-king.net/
 - https://qetic.jp/
+- https://openers.jp/
