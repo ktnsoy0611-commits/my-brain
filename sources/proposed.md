@@ -27,3 +27,4 @@
 - https://www.ele-king.net/
 - https://qetic.jp/
 - https://openers.jp/
+- https://www.wwdjapan.com/
