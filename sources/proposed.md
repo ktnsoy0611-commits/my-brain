@@ -28,3 +28,4 @@
 - https://qetic.jp/
 - https://openers.jp/
 - https://www.wwdjapan.com/
+- https://madamefigaro.jp/
