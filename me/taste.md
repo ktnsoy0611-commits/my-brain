@@ -71,4 +71,5 @@ updated: 2026-08-02
 - 雑貨集め
 - 運動習慣
 - カフェ巡り
+- 郷土史
 <!-- END app-managed:taste -->
