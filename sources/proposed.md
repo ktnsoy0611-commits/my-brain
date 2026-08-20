@@ -29,3 +29,4 @@
 - https://openers.jp/
 - https://www.wwdjapan.com/
 - https://madamefigaro.jp/
+- https://spur.hpplus.jp/
