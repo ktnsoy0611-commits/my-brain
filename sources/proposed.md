@@ -30,3 +30,4 @@
 - https://www.wwdjapan.com/
 - https://madamefigaro.jp/
 - https://spur.hpplus.jp/
+- https://www.ignant.com/
