@@ -1,45 +1,51 @@
-# source-stats（自動集計: 2026-08-20。情報源ごとの打率。発掘タスクが並べ替え・淘汰に使う）
+# source-stats（自動集計: 2026-08-21。情報源ごとの打率。発掘タスクが並べ替え・淘汰に使う）
 
 各行は「ドメイン｜出した数（スワイプで決定済み）｜残した数（KEEP）｜打率｜旗（質が低いと申告された数）」。
 打率 = 残した ÷ 出した。出した数が少ないサイトは判断材料が足りないので淘汰しないこと。
 
-- houyhnhnm.jp｜出した2｜残した2｜打率100%｜旗0
+- wwdjapan.com｜出した2｜残した2｜打率100%｜旗0
 - fudge.jp｜出した1｜残した1｜打率100%｜旗0
-- popeyemagazine.jp｜出した1｜残した1｜打率100%｜旗0
 - sabukaru.online｜出した1｜残した1｜打率100%｜旗0
 - highsnobiety.com｜出した1｜残した1｜打率100%｜旗0
 - qetic.jp｜出した1｜残した1｜打率100%｜旗0
-- ele-king.net｜出した1｜残した1｜打率100%｜旗0
 - openers.jp｜出した1｜残した1｜打率100%｜旗0
 - fashionsnap.com｜出した4｜残した3｜打率75%｜旗0
+- houyhnhnm.jp｜出した3｜残した2｜打率67%｜旗0
 - colocal.jp｜出した3｜残した2｜打率67%｜旗0
 - vogue.co.jp｜出した3｜残した2｜打率67%｜旗0
 - gqjapan.jp｜出した5｜残した3｜打率60%｜旗0
+- popeyemagazine.jp｜出した2｜残した1｜打率50%｜旗0
+- ele-king.net｜出した2｜残した1｜打率50%｜旗0
 - wired.jp｜出した2｜残した1｜打率50%｜旗0
 - dezeen.com｜出した2｜残した1｜打率50%｜旗0
 - numero.jp｜出した2｜残した1｜打率50%｜旗0
-- ginzamag.com｜出した5｜残した2｜打率40%｜旗0
+- madamefigaro.jp｜出した2｜残した1｜打率50%｜旗0
+- eiga.com｜出した8｜残した3｜打率38%｜旗0
+- ginzamag.com｜出した9｜残した3｜打率33%｜旗0
 - imaonline.jp｜出した3｜残した1｜打率33%｜旗0
 - niewmedia.com｜出した3｜残した1｜打率33%｜旗0
 - qui.tokyo｜出した10｜残した3｜打率30%｜旗0
-- artscape.jp｜出した14｜残した3｜打率21%｜旗0
-- eiga.com｜出した6｜残した1｜打率17%｜旗0
-- axismag.jp｜出した9｜残した1｜打率11%｜旗0
+- axismag.jp｜出した11｜残した3｜打率27%｜旗0
+- artscape.jp｜出した15｜残した3｜打率20%｜旗0
 - casabrutus.com｜出した12｜残した1｜打率8%｜旗0
-- bijutsutecho.com｜出した20｜残した1｜打率5%｜旗0
-- pen-online.jp｜出した8｜残した0｜打率0%｜旗0
-- andpremium.jp｜出した5｜残した0｜打率0%｜旗0
-- eyescream.jp｜出した4｜残した0｜打率0%｜旗0
+- bijutsutecho.com｜出した25｜残した1｜打率4%｜旗0
+- pen-online.jp｜出した9｜残した0｜打率0%｜旗0
+- andpremium.jp｜出した6｜残した0｜打率0%｜旗0
+- eyescream.jp｜出した6｜残した0｜打率0%｜旗0
+- cinra.net｜出した5｜残した0｜打率0%｜旗0
 - brutus.jp｜出した3｜残した0｜打率0%｜旗0
 - pinupmagazine.org｜出した3｜残した0｜打率0%｜旗0
-- cinra.net｜出した3｜残した0｜打率0%｜旗0
 - esquire.com｜出した2｜残した0｜打率0%｜旗0
 - spincoaster.com｜出した2｜残した0｜打率0%｜旗0
+- hyperallergic.com｜出した2｜残した0｜打率0%｜旗0
 - geeksblog.jp｜出した1｜残した0｜打率0%｜旗0
 - tokyoartbeat.com｜出した1｜残した0｜打率0%｜旗0
 - discoverjapan-web.com｜出した1｜残した0｜打率0%｜旗0
 - designboom.com｜出した1｜残した0｜打率0%｜旗0
 - elle.com｜出した1｜残した0｜打率0%｜旗0
-- hyperallergic.com｜出した1｜残した0｜打率0%｜旗0
 - realsound.jp｜出した1｜残した0｜打率0%｜旗0
-- madamefigaro.jp｜出した1｜残した0｜打率0%｜旗0
+- dazeddigital.com｜出した1｜残した0｜打率0%｜旗0
+- shop.sightunseen.com｜出した1｜残した0｜打率0%｜旗0
+- sleek-mag.com｜出した1｜残した0｜打率0%｜旗0
+- spur.hpplus.jp｜出した1｜残した0｜打率0%｜旗0
+- ignant.com｜出した1｜残した0｜打率0%｜旗0
