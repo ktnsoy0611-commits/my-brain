@@ -20,3 +20,5 @@
 - https://www.elle.com/jp/
 - https://pinupmagazine.org/
 - https://realsound.jp/
+- https://www.ignant.com/
+- https://spur.hpplus.jp/
