@@ -31,3 +31,4 @@
 - https://madamefigaro.jp/
 - https://spur.hpplus.jp/
 - https://www.ignant.com/
+- https://www.anothermag.com/
