@@ -32,3 +32,4 @@
 - https://spur.hpplus.jp/
 - https://www.ignant.com/
 - https://www.anothermag.com/
+- https://www.dazeddigital.com/
