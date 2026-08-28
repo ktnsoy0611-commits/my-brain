@@ -26,7 +26,7 @@
 - niewmedia.com｜出した3｜残した1｜打率33%｜旗0
 - qui.tokyo｜出した10｜残した3｜打率30%｜旗0
 - axismag.jp｜出した11｜残した3｜打率27%｜旗0
-- artscape.jp｜出した15｜残した3｜打率20%｜旗0
+- artscape.jp｜出した16｜残した3｜打率19%｜旗0
 - casabrutus.com｜出した12｜残した1｜打率8%｜旗0
 - bijutsutecho.com｜出した25｜残した1｜打率4%｜旗0
 - pen-online.jp｜出した9｜残した0｜打率0%｜旗0
@@ -38,13 +38,13 @@
 - esquire.com｜出した2｜残した0｜打率0%｜旗0
 - spincoaster.com｜出した2｜残した0｜打率0%｜旗0
 - hyperallergic.com｜出した2｜残した0｜打率0%｜旗0
+- dazeddigital.com｜出した2｜残した0｜打率0%｜旗0
 - geeksblog.jp｜出した1｜残した0｜打率0%｜旗0
 - tokyoartbeat.com｜出した1｜残した0｜打率0%｜旗0
 - discoverjapan-web.com｜出した1｜残した0｜打率0%｜旗0
 - designboom.com｜出した1｜残した0｜打率0%｜旗0
 - elle.com｜出した1｜残した0｜打率0%｜旗0
 - realsound.jp｜出した1｜残した0｜打率0%｜旗0
-- dazeddigital.com｜出した1｜残した0｜打率0%｜旗0
 - shop.sightunseen.com｜出した1｜残した0｜打率0%｜旗0
 - sleek-mag.com｜出した1｜残した0｜打率0%｜旗0
 - spur.hpplus.jp｜出した1｜残した0｜打率0%｜旗0
