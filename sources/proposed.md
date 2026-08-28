@@ -33,3 +33,4 @@
 - https://www.ignant.com/
 - https://www.anothermag.com/
 - https://www.dazeddigital.com/
+- https://www.sightunseen.com/
