@@ -22,3 +22,4 @@
 - https://realsound.jp/
 - https://www.ignant.com/
 - https://spur.hpplus.jp/
+- https://www.dazeddigital.com/
