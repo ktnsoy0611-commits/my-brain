@@ -23,3 +23,6 @@
 - https://www.ignant.com/
 - https://spur.hpplus.jp/
 - https://www.dazeddigital.com/
+- https://crackmagazine.net/
+- https://www.sightunseen.com/
+- https://www.anothermag.com/
