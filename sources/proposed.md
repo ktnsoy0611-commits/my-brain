@@ -35,3 +35,4 @@
 - https://www.dazeddigital.com/
 - https://www.sightunseen.com/
 - https://crackmagazine.net/
+- https://www.sleek-mag.com/
