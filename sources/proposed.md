@@ -36,3 +36,4 @@
 - https://www.sightunseen.com/
 - https://crackmagazine.net/
 - https://www.sleek-mag.com/
+- https://honeyee.com/
