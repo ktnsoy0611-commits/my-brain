@@ -42,3 +42,8 @@
 - https://studiovoice.jp/ — トップページに記事一覧・ニュース欄がなく、確認できた最新の号情報は2019年で継続更新の形跡なし
 - https://theface.com/ — 運営会社の経営交代により2026年時点で休刊中（"will return"の告知のみ）で記事配信なし
 - https://www.documentjournal.com/ — 記事の質は高いが最新記事が2025年12月で、直近3か月以内の更新が無い
+- https://www.mixmagjapan.com/ — 最新記事が2025年11月で、直近3か月以内の更新が無い
+- https://www.ocula.com/magazine/ — Bot対策等で本文を取得できず確認不可（403 Forbidden）
+- https://www.lensculture.com/articles — Bot対策等で本文を取得できず確認不可（403 Forbidden）
+- https://news.artnet.com/ — Bot対策等で本文を取得できず確認不可（403 Forbidden）
+- https://tsugilab.com/ — 福井のクラフト会社TSUGI自身の活動報告ブログで、独立したカルチャーメディアではない
