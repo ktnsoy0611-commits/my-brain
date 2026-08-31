@@ -37,3 +37,4 @@
 - https://crackmagazine.net/
 - https://www.sleek-mag.com/
 - https://honeyee.com/
+- https://dig-it.media/lightning/
