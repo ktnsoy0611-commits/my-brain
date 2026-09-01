@@ -4,6 +4,7 @@ updated: 2026-08-02
 ---
 <!-- BEGIN app-managed:favorites -->
 ## お気に入り（アプリの設定画面から同期・直接編集しても上書きされます）
+- [japandesign.ne.jp](https://www.japandesign.ne.jp/)
 - [wwdjapan.com](https://www.wwdjapan.com/)
 - [madamefigaro.jp](https://madamefigaro.jp/)
 - [openers.jp](https://openers.jp/)
