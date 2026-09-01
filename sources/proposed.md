@@ -38,3 +38,4 @@
 - https://www.sleek-mag.com/
 - https://honeyee.com/
 - https://dig-it.media/lightning/
+- https://www.japandesign.ne.jp/
