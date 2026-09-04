@@ -42,3 +42,4 @@
 - https://turntokyo.com/
 - https://mikiki.tokyo.jp/
 - https://neol.jp/
+- https://officemagazine.net/
