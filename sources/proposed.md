@@ -44,3 +44,4 @@
 - https://neol.jp/
 - https://officemagazine.net/
 - https://heddels.com/
+- https://denimhunters.com/
