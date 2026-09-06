@@ -47,3 +47,13 @@
 - https://www.lensculture.com/articles — Bot対策等で本文を取得できず確認不可（403 Forbidden）
 - https://news.artnet.com/ — Bot対策等で本文を取得できず確認不可（403 Forbidden）
 - https://tsugilab.com/ — 福井のクラフト会社TSUGI自身の活動報告ブログで、独立したカルチャーメディアではない
+- https://www.billboard-japan.com/ — チャート情報とプレスリリース的な新曲告知が中心で、独自の分析・視点を持つ記事が確認できない
+- https://crossbeatonline.jp/ — ドメインが存在せず実在確認できず（CROSSBEAT誌自体も休刊中）
+- https://pitchfork.com/ — Bot対策等で本文を取得できず確認不可
+- https://i-d.co/ — Bot対策(WAF)によりHTTP 403 Forbiddenが返り本文取得不可
+- https://www.domusweb.it/ — Bot対策(WAF)によりHTTP 403 Forbiddenが返り本文取得不可
+- https://www.indiewire.com/ — ボット向け課金ゲート(Tollbit)にリダイレクトされHTTP 402 Payment Requiredで本文取得不可
+- https://www.rollingstone.com/ — 同上、Tollbitによる課金ゲートで本文取得不可（HTTP 402）
+- https://www.hypebae.com/ — トップページ・記事とも複数回試行して本文が空で確認できず（JS依存/Bot対策と推測）
+- https://www.juxtapoz.com/ — 最新記事が2026年5月で、直近3か月以内の更新が無い
+- https://meets-regional.com/ — ドメインが存在せず実在確認できず（紙媒体のみで公式Webサイトが無い）
