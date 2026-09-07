@@ -45,3 +45,4 @@
 - https://officemagazine.net/
 - https://heddels.com/
 - https://denimhunters.com/
+- https://www.udiscovermusic.com/
