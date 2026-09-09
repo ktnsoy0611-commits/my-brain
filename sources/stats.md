@@ -54,3 +54,4 @@
 - sightunseen.com｜出した1｜残した0｜打率0%｜旗0
 - crackmagazine.net｜出した1｜残した0｜打率0%｜旗0
 - honeyee.com｜出した1｜残した0｜打率0%｜旗0
+- ra.co｜出した1｜残した0｜打率0%｜旗0
