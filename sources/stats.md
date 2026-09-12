@@ -27,7 +27,7 @@
 - ginzamag.com｜出した11｜残した3｜打率27%｜旗0
 - axismag.jp｜出した11｜残した3｜打率27%｜旗0
 - brutus.jp｜出した4｜残した1｜打率25%｜旗0
-- artscape.jp｜出した22｜残した5｜打率23%｜旗0
+- artscape.jp｜出した23｜残した5｜打率22%｜旗0
 - popeyemagazine.jp｜出した5｜残した1｜打率20%｜旗0
 - casabrutus.com｜出した12｜残した1｜打率8%｜旗0
 - bijutsutecho.com｜出した32｜残した1｜打率3%｜旗0
@@ -55,3 +55,4 @@
 - crackmagazine.net｜出した1｜残した0｜打率0%｜旗0
 - honeyee.com｜出した1｜残した0｜打率0%｜旗0
 - ra.co｜出した1｜残した0｜打率0%｜旗0
+- lwlies.com｜出した1｜残した0｜打率0%｜旗0
