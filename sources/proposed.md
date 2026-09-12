@@ -51,3 +51,4 @@
 - https://www.dwell.com/
 - https://lwlies.com/
 - https://cinemore.jp/
+- https://www.metropolismag.com/
