@@ -50,3 +50,4 @@
 - https://ra.co/
 - https://www.dwell.com/
 - https://lwlies.com/
+- https://cinemore.jp/
