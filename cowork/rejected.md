@@ -57,3 +57,10 @@
 - https://www.hypebae.com/ — トップページ・記事とも複数回試行して本文が空で確認できず（JS依存/Bot対策と推測）
 - https://www.juxtapoz.com/ — 最新記事が2026年5月で、直近3か月以内の更新が無い
 - https://meets-regional.com/ — ドメインが存在せず実在確認できず（紙媒体のみで公式Webサイトが無い）
+- https://xlr8r.com/ — 2024年12月に事業を停止しており、直近3か月以内の更新が確認できない
+- https://www.factmag.com/ — News欄は2020年3月で更新が止まっており、サイト全体で見ても直近3か月以内の更新が確認できない
+- https://denimdudes.co/ — 実態はB2Bのトレンド予測コンサル/有料サブスクリプションサービスで、無料で読める編集メディアではない
+- http://www.cbc-net.com/ — 最新記事が2020年6月で、それ以降の更新が確認できず事実上休眠している
+- https://www.ssense.com/en-jp/editorial — アクセス時にHTTP 403 Forbiddenが返り本文を取得・検証できない
+- https://domani.shueisha.co.jp/ — 指定ドメインが存在せず（DNS解決不可）。実際は小学館運営でoggi.jp/domaniに統合されており、内容も育児漫画・占いが中心で建築・デザイン系の記事はほぼ無い
+- https://www.fashion-headline.com/ — 更新は活発だがブランド告知・新店オープンなどプレスリリース転載が中心で、独自取材・批評に基づく編集記事が乏しい
