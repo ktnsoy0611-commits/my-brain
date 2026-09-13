@@ -29,3 +29,4 @@
 - https://www.sleek-mag.com/
 - https://ra.co/
 - https://lwlies.com/
+- https://www.metropolismag.com/
