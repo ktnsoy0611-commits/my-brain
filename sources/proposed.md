@@ -52,3 +52,4 @@
 - https://lwlies.com/
 - https://cinemore.jp/
 - https://www.metropolismag.com/
+- https://design-milk.com/
