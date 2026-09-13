@@ -6,10 +6,11 @@
 - fudge.jp｜出した1｜残した1｜打率100%｜旗0
 - sabukaru.online｜出した1｜残した1｜打率100%｜旗0
 - openers.jp｜出した1｜残した1｜打率100%｜旗0
+- denimhunters.com｜出した1｜残した1｜打率100%｜旗0
 - fashionsnap.com｜出した4｜残した3｜打率75%｜旗0
-- vogue.co.jp｜出した4｜残した3｜打率75%｜旗0
 - wwdjapan.com｜出した3｜残した2｜打率67%｜旗0
 - highsnobiety.com｜出した3｜残した2｜打率67%｜旗0
+- vogue.co.jp｜出した5｜残した3｜打率60%｜旗0
 - houyhnhnm.jp｜出した5｜残した3｜打率60%｜旗0
 - numero.jp｜出した5｜残した3｜打率60%｜旗0
 - colocal.jp｜出した6｜残した3｜打率50%｜旗0
@@ -30,8 +31,8 @@
 - artscape.jp｜出した25｜残した6｜打率24%｜旗0
 - popeyemagazine.jp｜出した5｜残した1｜打率20%｜旗0
 - casabrutus.com｜出した12｜残した1｜打率8%｜旗0
-- bijutsutecho.com｜出した34｜残した1｜打率3%｜旗0
-- pen-online.jp｜出した12｜残した0｜打率0%｜旗0
+- bijutsutecho.com｜出した35｜残した1｜打率3%｜旗0
+- pen-online.jp｜出した13｜残した0｜打率0%｜旗0
 - andpremium.jp｜出した9｜残した0｜打率0%｜旗0
 - eyescream.jp｜出した8｜残した0｜打率0%｜旗0
 - cinra.net｜出した5｜残した0｜打率0%｜旗0
@@ -59,3 +60,4 @@
 - metropolismag.com｜出した1｜残した0｜打率0%｜旗0
 - heddels.com｜出した1｜残した0｜打率0%｜旗0
 - dwell.com｜出した1｜残した0｜打率0%｜旗0
+- design-milk.com｜出した1｜残した0｜打率0%｜旗0
