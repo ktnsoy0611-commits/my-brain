@@ -53,3 +53,4 @@
 - https://cinemore.jp/
 - https://www.metropolismag.com/
 - https://design-milk.com/
+- https://www.creativeboom.com/
