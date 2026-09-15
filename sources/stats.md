@@ -7,6 +7,7 @@
 - sabukaru.online｜出した1｜残した1｜打率100%｜旗0
 - openers.jp｜出した1｜残した1｜打率100%｜旗0
 - denimhunters.com｜出した1｜残した1｜打率100%｜旗0
+- skream.jp｜出した1｜残した1｜打率100%｜旗0
 - fashionsnap.com｜出した4｜残した3｜打率75%｜旗0
 - wwdjapan.com｜出した3｜残した2｜打率67%｜旗0
 - highsnobiety.com｜出した3｜残した2｜打率67%｜旗0
@@ -28,10 +29,10 @@
 - ginzamag.com｜出した11｜残した3｜打率27%｜旗0
 - axismag.jp｜出した11｜残した3｜打率27%｜旗0
 - brutus.jp｜出した4｜残した1｜打率25%｜旗0
-- artscape.jp｜出した25｜残した6｜打率24%｜旗0
+- artscape.jp｜出した26｜残した6｜打率23%｜旗0
 - popeyemagazine.jp｜出した5｜残した1｜打率20%｜旗0
 - casabrutus.com｜出した12｜残した1｜打率8%｜旗0
-- bijutsutecho.com｜出した35｜残した1｜打率3%｜旗0
+- bijutsutecho.com｜出した36｜残した1｜打率3%｜旗0
 - pen-online.jp｜出した13｜残した0｜打率0%｜旗0
 - andpremium.jp｜出した9｜残した0｜打率0%｜旗0
 - eyescream.jp｜出した8｜残した0｜打率0%｜旗0
