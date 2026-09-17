@@ -31,3 +31,4 @@
 - https://lwlies.com/
 - https://www.metropolismag.com/
 - https://design-milk.com/
+- https://www.core77.com/
