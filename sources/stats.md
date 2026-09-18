@@ -8,6 +8,7 @@
 - openers.jp｜出した1｜残した1｜打率100%｜旗0
 - denimhunters.com｜出した1｜残した1｜打率100%｜旗0
 - skream.jp｜出した1｜残した1｜打率100%｜旗0
+- dig-it.media｜出した1｜残した1｜打率100%｜旗0
 - fashionsnap.com｜出した4｜残した3｜打率75%｜旗0
 - wwdjapan.com｜出した3｜残した2｜打率67%｜旗0
 - highsnobiety.com｜出した3｜残した2｜打率67%｜旗0
