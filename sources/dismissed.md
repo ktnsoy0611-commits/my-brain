@@ -32,3 +32,4 @@
 - https://www.metropolismag.com/
 - https://design-milk.com/
 - https://www.core77.com/
+- https://www.wallpaper.com/
