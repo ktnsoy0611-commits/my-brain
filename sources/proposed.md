@@ -60,3 +60,4 @@
 - https://thevinylfactory.com/
 - https://www.core77.com/
 - https://www.wallpaper.com/
+- https://kinfolk.com/
