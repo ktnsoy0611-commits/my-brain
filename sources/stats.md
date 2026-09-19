@@ -9,10 +9,11 @@
 - denimhunters.com｜出した1｜残した1｜打率100%｜旗0
 - skream.jp｜出した1｜残した1｜打率100%｜旗0
 - dig-it.media｜出した1｜残した1｜打率100%｜旗0
+- webuomo.jp｜出した1｜残した1｜打率100%｜旗0
 - fashionsnap.com｜出した4｜残した3｜打率75%｜旗0
+- vogue.co.jp｜出した6｜残した4｜打率67%｜旗0
 - wwdjapan.com｜出した3｜残した2｜打率67%｜旗0
 - highsnobiety.com｜出した3｜残した2｜打率67%｜旗0
-- vogue.co.jp｜出した5｜残した3｜打率60%｜旗0
 - houyhnhnm.jp｜出した5｜残した3｜打率60%｜旗0
 - numero.jp｜出した5｜残した3｜打率60%｜旗0
 - colocal.jp｜出した6｜残した3｜打率50%｜旗0
@@ -22,6 +23,7 @@
 - ele-king.net｜出した2｜残した1｜打率50%｜旗0
 - wired.jp｜出した2｜残した1｜打率50%｜旗0
 - dezeen.com｜出した2｜残した1｜打率50%｜旗0
+- heddels.com｜出した2｜残した1｜打率50%｜旗0
 - imaonline.jp｜出した5｜残した2｜打率40%｜旗0
 - eiga.com｜出した12｜残した4｜打率33%｜旗0
 - madamefigaro.jp｜出した3｜残した1｜打率33%｜旗0
@@ -60,7 +62,6 @@
 - ra.co｜出した1｜残した0｜打率0%｜旗0
 - lwlies.com｜出した1｜残した0｜打率0%｜旗0
 - metropolismag.com｜出した1｜残した0｜打率0%｜旗0
-- heddels.com｜出した1｜残した0｜打率0%｜旗0
 - dwell.com｜出した1｜残した0｜打率0%｜旗0
 - design-milk.com｜出した1｜残した0｜打率0%｜旗0
 - core77.com｜出した1｜残した0｜打率0%｜旗0
