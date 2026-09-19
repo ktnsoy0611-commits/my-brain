@@ -63,3 +63,4 @@
 - https://kinfolk.com/
 - https://www.webuomo.jp/
 - https://oceans.tokyo.jp/
+- https://safarilounge.jp/online/
