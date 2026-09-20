@@ -64,3 +64,21 @@
 - https://www.ssense.com/en-jp/editorial — アクセス時にHTTP 403 Forbiddenが返り本文を取得・検証できない
 - https://domani.shueisha.co.jp/ — 指定ドメインが存在せず（DNS解決不可）。実際は小学館運営でoggi.jp/domaniに統合されており、内容も育児漫画・占いが中心で建築・デザイン系の記事はほぼ無い
 - https://www.fashion-headline.com/ — 更新は活発だがブランド告知・新店オープンなどプレスリリース転載が中心で、独自取材・批評に基づく編集記事が乏しい
+- https://bijutsutecho.com/ — 打率が低いため（残した1 / 出した36）
+- https://forzastyle.com/ — 会員登録・ログインボタンが前面に出ており、全文無料閲覧が不明瞭
+- https://www.greenz.jp/ — 内容が地域活性化・環境問題中心で、ファッション/建築/デザインの傾向と合わない
+- https://www.mdn.co.jp/design/ — Photoshop操作チュートリアルやガジェットニュースが中心で、批評的なエディトリアル/ブックデザイン記事が薄い
+- https://kogeijapan.com/ — 記事一覧を持たない静的な工芸カタログ/事典サイトで、更新記事がない
+- https://hokuohkurashi.com/note — 実質はECサイトの自社メディアで新商品紹介・スタッフコーデが中心、独立系カルチャーメディアの基準に合わない
+- https://www.barks.jp/ — イベント告知・プレスリリース的な速報が大半で、批評性のあるオリジナル記事が少ない
+- https://toolbox.co.jp/ — サイトが機能しておらずトップページが404エラー
+- https://www.e-begin.jp/ — 403 Forbidden、ボットブロックでアクセス不可
+- https://bjp-online.com/ — ドメイン解決不可
+- https://1854.photography/ — 403 Forbidden、ボットブロックでアクセス不可
+- https://www.uncut.co.uk/ — 403 Forbidden、ボットブロックでアクセス不可
+- https://creativereview.co.uk/ — 403 Forbidden、ボットブロックでアクセス不可
+- https://reverb.com/news — 404 Not Found、記事一覧ページが存在しない
+- https://www.rivetandhide.com/blogs/news — 403 Forbidden、ボットブロックでアクセス不可
+- https://www.selfedge.com/blogs — 404 Not Found、ブログ/ジャーナルページが見つからない
+- https://www.designers-network.jp/ — ドメイン解決不可
+- https://www.hokuoseikatsu.com/ — ドメイン解決不可
