@@ -65,3 +65,4 @@
 - https://oceans.tokyo.jp/
 - https://safarilounge.jp/online/
 - https://www.leon.jp/
+- https://www.mens-ex.jp/
