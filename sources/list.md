@@ -4,6 +4,7 @@ updated: 2026-08-02
 ---
 <!-- BEGIN app-managed:favorites -->
 ## お気に入り（アプリの設定画面から同期・直接編集しても上書きされます）
+- [safarilounge.jp](https://safarilounge.jp/online/)
 - [webuomo.jp](https://www.webuomo.jp/)
 - [skream.jp](https://skream.jp/)
 - [japandesign.ne.jp](https://www.japandesign.ne.jp/)
