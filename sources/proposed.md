@@ -66,3 +66,4 @@
 - https://safarilounge.jp/online/
 - https://www.leon.jp/
 - https://www.mens-ex.jp/
+- https://mag.tecture.jp/
