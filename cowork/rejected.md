@@ -64,3 +64,19 @@
 - https://www.ssense.com/en-jp/editorial — アクセス時にHTTP 403 Forbiddenが返り本文を取得・検証できない
 - https://domani.shueisha.co.jp/ — 指定ドメインが存在せず（DNS解決不可）。実際は小学館運営でoggi.jp/domaniに統合されており、内容も育児漫画・占いが中心で建築・デザイン系の記事はほぼ無い
 - https://www.fashion-headline.com/ — 更新は活発だがブランド告知・新店オープンなどプレスリリース転載が中心で、独自取材・批評に基づく編集記事が乏しい
+- https://bijutsutecho.com/magazine — 最新記事の大半がPREMIUM表示の有料会員限定で、無料で全文読める記事はごく一部の期間限定公開のみ
+- https://clutchmagazine.jp/ — ドメインが存在せず実在確認できず（実際の窓口はfunq.jp/clutchの電子版販売ページで記事一覧型のメディアではない）
+- https://www.2ndstreet.jp/knowbrand/feature/japandenim/ — 403 Forbiddenでアクセス不可、内容を確認できず
+- https://www.d-department.com/ — 403 Forbiddenでアクセス不可、内容を確認できず
+- https://hokuohkurashi.com/note — 自社EC商品に紐づくコラムが中心で、独立編集媒体としての取材記事とは言い難い
+- https://www.harpersbazaar.com/jp/ — アクセス拒否でフェッチ不可、確認できず
+- https://www.elle.com/jp/decor/ — アクセス拒否でフェッチ不可、確認できず
+- https://www.imn.jp/ — 記事の多くがブランドの入荷・ポップアップ告知で、書き手の視点や具体的取材に乏しい
+- https://www.artlogue.org/ — 確認できた最新記事が2025年7月で、直近3か月以内の更新が無い
+- https://media.thisisgallery.com/ — 記事一覧はあるが公開日が確認できず、直近3か月以内の更新かどうか判断できない
+- https://suumo.jp/journal/ — 不動産ポータルの一部で、ランキング記事も多くroomie.jpと同系統の実利用者向けライフスタイルメディア
+- https://www.r-toolbox.jp/stories/ — リノベーション会社TOOLBOXの自社製品販売に紐づく企業広報コンテンツが中心で独立編集媒体としての中立性に欠ける
+- https://shinkenchiku.online/ — JavaScriptで内容が読み込まれず本文を確認できない、または有料データベースが中心
+- https://begin.365plus.jp/ — ドメインが存在せず実在確認できず
+- https://www.e-begin.jp/magazine/ — 403 Forbiddenでアクセス不可、確認できず
+- https://25ans.jp/ — アクセス拒否でフェッチ不可、確認できず
