@@ -69,3 +69,4 @@
 - https://mag.tecture.jp/
 - https://www.digimart.net/magazine/
 - https://amass.jp/
+- https://kai-you.net/
