@@ -68,3 +68,4 @@
 - https://www.mens-ex.jp/
 - https://mag.tecture.jp/
 - https://www.digimart.net/magazine/
+- https://amass.jp/
