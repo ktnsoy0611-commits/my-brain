@@ -70,3 +70,4 @@
 - https://www.digimart.net/magazine/
 - https://amass.jp/
 - https://kai-you.net/
+- https://rooftop1976.com/
