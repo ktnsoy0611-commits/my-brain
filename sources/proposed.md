@@ -71,3 +71,4 @@
 - https://amass.jp/
 - https://kai-you.net/
 - https://rooftop1976.com/
+- https://ototoy.jp/features/
