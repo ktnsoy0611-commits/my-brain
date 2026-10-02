@@ -72,3 +72,4 @@
 - https://kai-you.net/
 - https://rooftop1976.com/
 - https://ototoy.jp/features/
+- https://smartmag.jp/archives/tag/vintage/
