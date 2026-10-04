@@ -80,3 +80,23 @@
 - https://begin.365plus.jp/ — ドメインが存在せず実在確認できず
 - https://www.e-begin.jp/magazine/ — 403 Forbiddenでアクセス不可、確認できず
 - https://25ans.jp/ — アクセス拒否でフェッチ不可、確認できず
+- https://natalie.mu/music — 403 Forbiddenでアクセス不可、確認できず
+- https://www.hodinkee.com/ — フェッチ不可で確認できず
+- https://www.creativereview.co.uk/ — 403 Forbiddenでアクセス不可、確認できず
+- https://www.rockinon.com/ — ドメインが解決せず実在確認できず
+- https://www.moviewalkerpress.jp/ — ドメインが解決せず実在確認できず
+- https://www.permanentstyle.com/ — 403 Forbiddenでアクセス不可、確認できず
+- https://www.disegnodaily.com/ — 503でアクセス不可、確認できず
+- https://www.japantimes.co.jp/culture/ — 402 Payment Requiredで本文取得不可（有料）
+- https://www.archdaily.com/ — 建築プロジェクトの投稿掲載が中心で、書き手の視点が薄い（architecturephoto.netと同系統）
+- https://www.leibal.com/ — 作品写真の掲載中心で解説テキストがほぼ無く、書き手の視点が乏しい
+- https://www.stereogum.com/ — 記事に日付表示が無く、直近の更新を確認できない
+- https://www.aestheticamagazine.com/ — 記事に日付表示が無く、直近3か月以内の更新を確認できない
+- https://jazztokyo.org/ — ライブ告知・イベント案内が中心で編集記事に乏しい
+- https://www.sotokoto-online.jp/ — 地域コミュニティ・セミナー告知が中心で見本と系統が異なる
+- https://filmaga.filmarks.com/ — 試写会・上映告知が中心で署名記事が乏しい
+- https://www.phatphoto.jp/ — 誌面購読が前提で、無料の記事一覧が確認できない
+- https://www.premierguitar.com/ — プレスリリース転載が大半を占める
+- https://www.fashionpost.jp/ — 新作・コラボのプレスリリース的投稿が中心
+- https://www.apartamentomagazine.com/ — 雑誌販売・会員制が中心で、記事に日付が無く更新確認できない
+- https://mubi.com/en/notebook — 記事一覧・日付を確認できず、無料購読枠の案内のみ
