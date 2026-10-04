@@ -1,6 +1,6 @@
 ---
 owner: cowork
-updated: 2026-09-27
+updated: 2026-10-04
 ---
 # taste-state（夜間の分析Cronが自動生成・上書きします）
 
