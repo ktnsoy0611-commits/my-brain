@@ -75,3 +75,4 @@
 - https://smartmag.jp/archives/tag/vintage/
 - https://www.spoon-tamago.com/
 - https://www.artnewsjapan.com/
+- https://www.coolhunting.com/
