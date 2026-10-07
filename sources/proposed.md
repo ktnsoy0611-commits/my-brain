@@ -76,3 +76,4 @@
 - https://www.spoon-tamago.com/
 - https://www.artnewsjapan.com/
 - https://www.coolhunting.com/
+- https://www.thisiscolossal.com/
