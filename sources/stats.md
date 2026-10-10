@@ -13,8 +13,8 @@
 - safarilounge.jp｜出した1｜残した1｜打率100%｜旗0
 - fashionsnap.com｜出した4｜残した3｜打率75%｜旗0
 - vogue.co.jp｜出した6｜残した4｜打率67%｜旗0
+- houyhnhnm.jp｜出した6｜残した4｜打率67%｜旗0
 - highsnobiety.com｜出した3｜残した2｜打率67%｜旗0
-- houyhnhnm.jp｜出した5｜残した3｜打率60%｜旗0
 - numero.jp｜出した5｜残した3｜打率60%｜旗0
 - colocal.jp｜出した6｜残した3｜打率50%｜旗0
 - gqjapan.jp｜出した6｜残した3｜打率50%｜旗0
