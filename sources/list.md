@@ -84,6 +84,10 @@ updated: 2026-08-02
 - [Yellowtrace](https://www.yellowtrace.com.au/) — 建築・インテリア・デザインの独立系メディア。パリの店舗やギャラリーなど編集された特集が続き、casabrutus.comに近い
 - [Put This On](https://www.putthison.com/) — クラシック/アメリカン寄りメンズウェアの個人系ブログ。書き手の視点が明確で、デニム・ヴィンテージ系のheddels.comに近い
 - [The Quietus](https://www.thequietus.com/) — 英国の音楽・カルチャー批評メディア。レビュー・インタビュー・エッセイが署名入りで並び、ele-king.netやturntokyo.comに近い
+- [ONTOMO](https://ontomo-mag.com/) — 音楽之友社系の音楽Webマガジン。毎日更新で、クラシックから楽器・音楽理論まで書き手の視点で掘り下げ、音楽理論・ギターへの関心にも合う
+- [ART iT](https://www.art-it.asia/) — 日英バイリンガルの現代アート情報メディア。展覧会レビューやインタビューが継続的に更新され、artnewsjapan.comやbijutsutecho系の編集の質
+- [Reverse Shot](https://reverseshot.org/) — 映画批評の独立系メディア。ほぼ毎日書き手の署名批評が更新され、cinemore.jpより批評寄りの深さがある
+- [Gessato](https://www.gessato.com/) — インテリア・建築・プロダクトデザインの国際メディア。家具や空間の紹介が頻繁に更新され、mag.tecture.jpやcoolhunting.comに近い
 - [IMA ONLINE](https://imaonline.jp/) — 写真・アート専門メディア。「いけばなと写真」インタヴューなど独自取材記事があり、写真展巡りの関心に直結。pen-online.jpに近い質感
 - [Heddels](https://heddels.com/) — デニム・ワークウェア・ヴィンテージ文化を扱う専門メディア。実物のフェード写真や独自レビューが中心で、デニム・ヴィンテージへの関心に直結
 - [madame FIGARO japon](https://madamefigaro.jp/) — コンデナスト運営のファッション・カルチャー誌。独占インタビューなど取材記事が並び、vogue.co.jpやgqjapan.jpに近い

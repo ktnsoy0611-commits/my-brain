@@ -100,3 +100,8 @@
 - https://www.fashionpost.jp/ — 新作・コラボのプレスリリース的投稿が中心
 - https://www.apartamentomagazine.com/ — 雑誌販売・会員制が中心で、記事に日付が無く更新確認できない
 - https://mubi.com/en/notebook — 記事一覧・日付を確認できず、無料購読枠の案内のみ
+- https://www.japanobjects.com/ — 確認できた最新記事が2024年2月で、直近3か月以内の更新が無い
+- https://www.pingmag.jp/ — ドメインが別内容（競艇予想サイト）に乗っ取られており、元のデザイン媒体として実在せず
+- https://designobserver.com/ — 403 Forbiddenでアクセス不可、確認できず
+- https://www.ahkah.jp/ — ジュエリーブランドの公式サイトで、編集記事の一覧が無い
+- https://www.nylon.jp/ — 記事一覧はあるが新作・コラボ告知が多く、見本より書き手の視点が薄いため見送り
