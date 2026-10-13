@@ -82,3 +82,4 @@
 - https://www.thequietus.com/
 - https://ontomo-mag.com/
 - https://www.art-it.asia/
+- https://reverseshot.org/
