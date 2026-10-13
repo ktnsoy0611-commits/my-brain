@@ -83,3 +83,4 @@
 - https://ontomo-mag.com/
 - https://www.art-it.asia/
 - https://reverseshot.org/
+- https://www.gessato.com/
