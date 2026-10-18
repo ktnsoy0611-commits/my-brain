@@ -105,3 +105,24 @@
 - https://designobserver.com/ — 403 Forbiddenでアクセス不可、確認できず
 - https://www.ahkah.jp/ — ジュエリーブランドの公式サイトで、編集記事の一覧が無い
 - https://www.nylon.jp/ — 記事一覧はあるが新作・コラボ告知が多く、見本より書き手の視点が薄いため見送り
+- https://www.tjapan.jp/ — フェッチ不可で確認できず
+- https://www.admagazine.jp/ — 503でアクセス不可、確認できず
+- https://www.art-annual.jp/ — NEWS欄の最新が2024年で、直近3か月以内の更新が確認できない
+- https://reverb.com/news — 403 Forbiddenでアクセス不可、確認できず
+- https://faroutmagazine.co.uk/ — 403 Forbiddenでアクセス不可、確認できず
+- https://www.remodelista.com/ — 無料閲覧は回数制限があり、購読者限定記事も多い部分ペイウォール
+- https://dieworkwear.com/ — 最新記事が2025年11月で、直近3か月以内の更新が無い
+- https://www.tokyoweekender.com/ — 「◯選」型のまとめ記事が多く、記事の日付も確認できない
+- https://www.artsy.net/articles — 403 Forbiddenでアクセス不可、確認できず
+- https://www.filmmakermagazine.com/ — 403 Forbiddenでアクセス不可、確認できず
+- https://forbesjapan.com/ — 会員限定記事が混在し、無料で全文を読めない記事が多い
+- https://www.mdn.co.jp/ — 403 Forbiddenでアクセス不可、確認できず
+- https://spice.eplus.jp/ — 403 Forbiddenでアクセス不可、確認できず
+- https://www.nippon.com/ja/ — 政治・経済中心で、文化・工芸の記事一覧を確認できず
+- https://fineboys-online.jp/ — PR記事・ブランド新作告知・ランキングが多く独自視点が薄い
+- https://www.mrporter.com/en-jp/journal — 403 Forbiddenでアクセス不可、確認できず
+- https://petapixel.com/ — 403 Forbiddenでアクセス不可、確認できず
+- https://www.architizer.com/journal/ — 403 Forbiddenでアクセス不可、確認できず
+- https://www.tower.jp/article/feature — 503でアクセス不可、確認できず
+- https://www.japan-architect.co.jp/ — 誌面販売の告知が中心で、無料の編集記事一覧が無い
+- https://kotaku.jp/ — 503でアクセス不可、確認できず
