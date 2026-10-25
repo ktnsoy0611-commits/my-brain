@@ -126,3 +126,16 @@
 - https://www.tower.jp/article/feature — 503でアクセス不可、確認できず
 - https://www.japan-architect.co.jp/ — 誌面販売の告知が中心で、無料の編集記事一覧が無い
 - https://kotaku.jp/ — 503でアクセス不可、確認できず
+https://www.yatzer.com/ — 記事一覧に日付表示が無く、直近の更新を確認できない
+https://www.nowness.com/ — JSで読み込まれ本文・一覧を取得できず確認不可
+https://www.cinematoday.jp/ — 作品ニュース・予告編告知が中心で署名記事が乏しい
+https://www.contemporist.com/ — 写真と短いキャプションが中心で、書き手の視点が薄い
+https://tabi-labo.com/ — 時事・ガジェット紹介が雑多でカルチャー系統から外れ、商品紹介も多い
+https://kottke.org/ — 他サイトへの短い引用リンクが中心で独自の記述が乏しい
+https://www.theartnewspaper.com/ — 速報ニュース中心で、無料で全文を読めるか確認できず
+https://moov.ooo/ — ゲーム機のおすすめ◯選が主で系統が異なる
+https://www.filmcomment.com/ — ログイン/購読導線があり、無料で全文読めるか確認できず
+https://www.nme.com/ — トップはニュース速報が中心で、編集記事は少ない
+https://www.openculture.com/ — 他者コンテンツの紹介まとめが中心で独自性が乏しい
+https://www.themarginalian.org/ — 読書・思想エッセイで興味領域から外れる
+https://theimpression.com/ — 日付が無く、購読導線とニュース告知中心で確認できず

@@ -98,4 +98,7 @@ updated: 2026-08-02
 - [Esquire日本版](https://www.esquire.com/jp/) — 男性向けカルチャー誌。映画人インタビューなど一次取材があり、gqjapan.jpに近い編集姿勢
 - [Hyperallergic](https://hyperallergic.com/) — 現代美術批評・カルチャー報道の独立系メディア。署名記事が中心で、ginzamag.comに近いアート系オリジナル記事
 - [Dwell](https://www.dwell.com/) — 米国発の建築・住宅デザイン専門誌。記者による住宅取材記事(home tours)が日々更新され、casabrutus.comやaxismag.jpに近い建築・インテリアへの取材姿勢
+- [Kyoto Journal](https://www.kyotojournal.org/) — 1986年創刊の非営利季刊誌のWeb版。京都・日本の文化や工芸、アートを書き手の視点で掘り下げる長文記事（直近は2026年10月）で、colocal.jpやfudge.jpに近い
+- [Senses of Cinema](https://www.sensesofcinema.com/) — 映画批評の学術系オンライン誌。署名入りの長文批評が2026年10月も更新され、reverseshot.orgに近い
+- [Guitar.com](https://www.guitar.com/) — ギター専門メディア。インタビューや楽器史の特集が中心でニュースも日々更新。ギターを極める目標に直結し、udiscovermusic.comに近い
 <!-- END cowork:discovered -->
