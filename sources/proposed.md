@@ -88,3 +88,4 @@
 - https://archinect.com/
 - https://www.kyotojournal.org/
 - https://www.sensesofcinema.com/
+- https://www.guitar.com/
