@@ -139,3 +139,15 @@ https://www.nme.com/ — トップはニュース速報が中心で、編集記�
 https://www.openculture.com/ — 他者コンテンツの紹介まとめが中心で独自性が乏しい
 https://www.themarginalian.org/ — 読書・思想エッセイで興味領域から外れる
 https://theimpression.com/ — 日付が無く、購読導線とニュース告知中心で確認できず
+https://front-row.jp/ — 海外セレブのゴシップ・私生活ニュースが中心で、見本の系統と異なる
+https://www.ginza.jp/ — 銀座エリアの公式案内サイトで、カルチャー誌ではない
+https://www.cdjournal.com/ — 新譜・イベント告知やプレス寄りの記事が中心
+https://www.musicman.co.jp/ — 403 Forbiddenでアクセス不可、確認できず
+https://theriver.jp/ — 403 Forbiddenでアクセス不可、確認できず
+https://www.brooklynvegan.com/ — 403 Forbiddenでアクセス不可、確認できず
+https://www.cinra.net/ — 打率が低いため（残した 0 / 出した 6）
+https://www.esquire.com/jp/ — 打率が低いため（残した 0 / 出した 2）
+https://hyperallergic.com/ — 打率が低いため（残した 0 / 出した 2）
+https://www.dwell.com/ — 打率が低いため（残した 0 / 出した 2）
+https://kinfolk.com/ — 打率が低いため（残した 0 / 出した 2）
+https://www.spoon-tamago.com/ — 打率が低いため（残した 0 / 出した 2）
