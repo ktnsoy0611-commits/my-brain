@@ -90,3 +90,4 @@
 - https://www.sensesofcinema.com/
 - https://www.guitar.com/
 - https://www.theguardian.com/artanddesign
+- https://www.thefader.com/
