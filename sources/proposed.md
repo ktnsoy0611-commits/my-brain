@@ -89,3 +89,4 @@
 - https://www.kyotojournal.org/
 - https://www.sensesofcinema.com/
 - https://www.guitar.com/
+- https://www.theguardian.com/artanddesign
