@@ -91,3 +91,4 @@
 - https://www.guitar.com/
 - https://www.theguardian.com/artanddesign
 - https://www.thefader.com/
+- https://www.arban-mag.com/
