@@ -151,3 +151,13 @@ https://hyperallergic.com/ — 打率が低いため（残した 0 / 出した 2
 https://www.dwell.com/ — 打率が低いため（残した 0 / 出した 2）
 https://kinfolk.com/ — 打率が低いため（残した 0 / 出した 2）
 https://www.spoon-tamago.com/ — 打率が低いため（残した 0 / 出した 2）
+https://goetheweb.jp/ — 商品プロモーション・会員限定企画が中心で独立編集の記事に乏しい
+https://precious.jp/ — 開運占い・新作紹介が混在し、編集の質が見本に届かない
+https://www.mensnonno.jp/ — タレント・コスメ・PR記事が中心で見本の系統から外れる
+https://screenonline.jp/ — 記事の日付が2019年で止まっており更新が確認できない
+https://www.thespaces.com/ — 確認できた記事の日付が2026年2月で、直近3か月の更新が確認できない
+https://www.timeout.com/tokyo — 「ベスト◯選」型のガイド記事が中心
+https://lmaga.jp/ — 関西のイベント・グルメ速報中心で生活圏・系統から外れる
+https://www.mastered.com/ — 研修サービス企業のサイトでメディアではない
+https://www.rogerebert.com/ — 403 Forbiddenでアクセス不可、確認できず
+https://www.criterion.com/current — 403 Forbiddenでアクセス不可、確認できず

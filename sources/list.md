@@ -92,6 +92,10 @@ updated: 2026-08-02
 - [The Guardian Art and design](https://www.theguardian.com/artanddesign) — 無料で読める英国紙のアート・写真・建築・デザイン欄。批評家と記者の署名記事が毎日更新され、pen-online.jpやhyperallergic級の批評性
 - [The FADER](https://www.thefader.com/) — 音楽とストリートカルチャーを扱う米国の老舗メディア。アーティストへの取材記事が毎日更新され、spincoaster.comやhighsnobiety.comに近い
 - [ARBAN](https://www.arban-mag.com/) — ジャズを中心にしたカルチャーメディア。インタビューやコラムなど書き手の視点がある記事が更新され、音楽史への関心とcinra.netに近い
+- [Print Magazine](https://www.printmag.com/) — 米国のグラフィックデザイン誌のWeb版。Steven Heller「The Daily Heller」など署名コラムが日々更新され、japandesign.ne.jpやaxismag.jpに近い
+- [Slant Magazine](https://www.slantmagazine.com/) — 映画・音楽の批評メディア。署名レビューや特集が連日更新され、reverseshot.orgやcinemore.jpに近い批評の質
+- [The Wire](https://www.thewire.co.uk/) — 1982年創刊の英国の前衛音楽誌。インタビュー・エッセイ・追悼文を無料公開しており、ele-king.netやthequietus.comに近い
+- [SURFACE](https://www.surfacemag.com/) — デザイン・建築・アート・ファッションを横断する米国誌。デザイナー特集や署名記事が2026年10月も更新、casabrutus.comに近い
 - [IMA ONLINE](https://imaonline.jp/) — 写真・アート専門メディア。「いけばなと写真」インタヴューなど独自取材記事があり、写真展巡りの関心に直結。pen-online.jpに近い質感
 - [Heddels](https://heddels.com/) — デニム・ワークウェア・ヴィンテージ文化を扱う専門メディア。実物のフェード写真や独自レビューが中心で、デニム・ヴィンテージへの関心に直結
 - [madame FIGARO japon](https://madamefigaro.jp/) — コンデナスト運営のファッション・カルチャー誌。独占インタビューなど取材記事が並び、vogue.co.jpやgqjapan.jpに近い
