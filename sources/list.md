@@ -83,15 +83,12 @@ updated: 2026-08-02
 - [The Quietus](https://www.thequietus.com/) — 英国の音楽・カルチャー批評メディア。レビュー・インタビュー・エッセイが署名入りで並び、ele-king.netやturntokyo.comに近い
 - [ART iT](https://www.art-it.asia/) — 日英バイリンガルの現代アート情報メディア。展覧会レビューやインタビューが継続的に更新され、artnewsjapan.comやbijutsutecho系の編集の質
 - [Reverse Shot](https://reverseshot.org/) — 映画批評の独立系メディア。ほぼ毎日書き手の署名批評が更新され、cinemore.jpより批評寄りの深さがある
-- [Gessato](https://www.gessato.com/) — インテリア・建築・プロダクトデザインの国際メディア。家具や空間の紹介が頻繁に更新され、mag.tecture.jpやcoolhunting.comに近い
 - [Aquarium Drunkard](https://aquariumdrunkard.com/) — LAの独立系音楽ジャーナル。インタビュー・ヴィンテージ盤の紹介・ライブ音源の連載が毎日更新され、ブルース/ロック系の音楽理解に合い、thequietus.comやbandcamp dailyに近い
-- [Archinect](https://archinect.com/) — 建築・デザインの国際ニュース/特集メディア。自社記事のNewsとFeaturesが毎日更新され、dezeen系の読み応えでmag.tecture.jpに近い（Bustler転載欄は除く）
 - [Kyoto Journal](https://www.kyotojournal.org/) — 1986年創刊の非営利季刊誌のWeb版。京都・日本の文化や工芸、アートを書き手の視点で掘り下げる長文記事（直近は2026年10月）で、colocal.jpやfudge.jpに近い
 - [Senses of Cinema](https://www.sensesofcinema.com/) — 映画批評の学術系オンライン誌。署名入りの長文批評が2026年10月も更新され、reverseshot.orgに近い
 - [Guitar.com](https://www.guitar.com/) — ギター専門メディア。インタビューや楽器史の特集が中心でニュースも日々更新。ギターを極める目標に直結し、udiscovermusic.comに近い
 - [The Guardian Art and design](https://www.theguardian.com/artanddesign) — 無料で読める英国紙のアート・写真・建築・デザイン欄。批評家と記者の署名記事が毎日更新され、pen-online.jpやhyperallergic級の批評性
 - [The FADER](https://www.thefader.com/) — 音楽とストリートカルチャーを扱う米国の老舗メディア。アーティストへの取材記事が毎日更新され、spincoaster.comやhighsnobiety.comに近い
-- [ARBAN](https://www.arban-mag.com/) — ジャズを中心にしたカルチャーメディア。インタビューやコラムなど書き手の視点がある記事が更新され、音楽史への関心とcinra.netに近い
 - [Print Magazine](https://www.printmag.com/) — 米国のグラフィックデザイン誌のWeb版。Steven Heller「The Daily Heller」など署名コラムが日々更新され、japandesign.ne.jpやaxismag.jpに近い
 - [Slant Magazine](https://www.slantmagazine.com/) — 映画・音楽の批評メディア。署名レビューや特集が連日更新され、reverseshot.orgやcinemore.jpに近い批評の質
 - [The Wire](https://www.thewire.co.uk/) — 1982年創刊の英国の前衛音楽誌。インタビュー・エッセイ・追悼文を無料公開しており、ele-king.netやthequietus.comに近い
@@ -99,7 +96,4 @@ updated: 2026-08-02
 - [IMA ONLINE](https://imaonline.jp/) — 写真・アート専門メディア。「いけばなと写真」インタヴューなど独自取材記事があり、写真展巡りの関心に直結。pen-online.jpに近い質感
 - [Heddels](https://heddels.com/) — デニム・ワークウェア・ヴィンテージ文化を扱う専門メディア。実物のフェード写真や独自レビューが中心で、デニム・ヴィンテージへの関心に直結
 - [madame FIGARO japon](https://madamefigaro.jp/) — コンデナスト運営のファッション・カルチャー誌。独占インタビューなど取材記事が並び、vogue.co.jpやgqjapan.jpに近い
-- [TECTURE MAG](https://mag.tecture.jp/) — 空間デザイン・建築専門メディア。建築家インタビューや現地レポートが継続的に更新され、axismag.jpやjapandesign.ne.jpに近い建築・デザインの編集姿勢
-- [OCEANS](https://oceans.tokyo.jp/) — 光文社運営の大人カジュアル男性ライフスタイル誌。ストリートスナップなど無料の編集コンテンツが並び、houyhnhnm.jpに近いテイスト
-- [HONEYEE.COM](https://honeyee.com/) — 東京発のストリート/ファッションカルチャーWebマガジン。人物取材連載「PROFILES」などが続き、houyhnhnm.jpやeyescream.jpに近い系統
 <!-- END cowork:discovered -->
