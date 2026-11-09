@@ -92,3 +92,4 @@
 - https://www.theguardian.com/artanddesign
 - https://www.thefader.com/
 - https://www.arban-mag.com/
+- https://www.printmag.com/
