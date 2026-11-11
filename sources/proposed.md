@@ -95,3 +95,4 @@
 - https://www.printmag.com/
 - https://www.slantmagazine.com/
 - https://www.thewire.co.uk/
+- https://www.surfacemag.com/
