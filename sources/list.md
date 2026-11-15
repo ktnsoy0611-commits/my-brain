@@ -40,20 +40,10 @@ updated: 2026-08-02
 ## 発掘した情報源（打率が高い順）
 - [Denimhunters](https://denimhunters.com/) — デニム文化専門の独立系メディア。ブランド背景を掘り下げる署名記事が中心で、デニムへの関心に直結
 - [Sabukaru](https://sabukaru.online/) — 日本・東アジアのサブカルチャー（音楽・ファッション・建築）を扱う独立系メディア。頻繁に更新され、eyescream.jpやqui.tokyoに近いストリート/カルチャー誌
-- [OPENERS](https://openers.jp/) — 腕時計・車・ファッションを扱う男性向けライフスタイル誌。署名コラムやイベントレポートが日々更新され、ginzamag.comやpen-online.jpに近い
-- [Skream!](https://skream.jp/) — ロック・ポップス系の音楽メディア。ライブレポートや連載コラムが日々更新され、書き手の取材に基づくrollingstonejapan.comに近い編集姿勢
 - [Dig-it（Lightning）](https://dig-it.media/lightning/) — アメカジ・ヴィンテージ専門誌『Lightning』のWebメディア。バイクイベントや古着店取材など書き手の一人称エッセイが並び、デニム・ヴィンテージへの関心や古着店文化への関心に直結
-- [UOMO](https://www.webuomo.jp/) — 集英社運営のハイブランド寄りメンズファッション誌のWeb版。編集主体の記事が日々更新され、gqjapan.jpに近いポジション
-- [Safari Online](https://safarilounge.jp/online/) — 男性誌Safariのカルチャー欄。俳優インタビューなど映画・著名人取材記事が中心で、pen-online.jpのカルチャー特集に近い
-- [HOUYHNHNM](https://www.houyhnhnm.jp/) — ストリート/ファッションカルチャーのWebマガジン。連載「憧れの逸品」など毎日更新があり、eyescream.jpに最も近い系統
-- [VOGUE JAPAN](https://www.vogue.co.jp/) — コンデナスト運営のファッション総合メディア。ブランドとアートの交差を扱う署名記事が多く、gqjapan.jpに近い編集の質
 - [Highsnobiety](https://www.highsnobiety.com/) — ストリート/ファッションカルチャーの国際メディア。ブランドヒストリーや一次取材の署名記事が頻繁に更新され、houyhnhnm.jpやsabukaru.onlineに近い
 - [Qetic](https://qetic.jp/) — 音楽・カルチャーのWebマガジン。インタビューやコラムが日々更新され、cinra.netに近い編集姿勢
 - [Numero TOKYO](https://numero.jp/) — ファッション・アート・カルチャーを横断するモード誌。ルメール特集など編集記事が並び、gqjapan.jpやandpremium.jpに近い
-- [WWD JAPAN](https://www.wwdjapan.com/) — ファッション業界の専門報道メディア。署名記者による取材・分析記事が日々更新され、fashionsnap.comに近い専門性
-- [COLOCAL](https://colocal.jp/) — マガジンハウス運営、月替わりで地域文化を深掘りする特集メディア。奈良・石川特集など郷土史・ものづくりに直結する取材記事があり、casabrutus.comやbrutus.jpと同じ版元らしい編集の質
-- [JDN（Japan Design Net）](https://www.japandesign.ne.jp/) — 1997年創業のデザイン専門メディア。デザイナー・建築家への直接取材連載が続き、axismag.jpに近い編集の質
-- [ele-king](https://www.ele-king.net/) — 電子音楽・実験音楽を軸にした批評メディア。アルバム評やインタビューなど一次情報が並び、spincoaster.comやcinra.netに近い批評性
 - [It's Nice That](https://www.itsnicethat.com/) — 2007年創刊のクリエイティブ/デザイン専門メディア。デザイナー本人へのインタビューなど一次取材記事があり、axismag.jpに近い
 - [Rolling Stone Japan](https://rollingstonejapan.com/) — 音楽を軸にカルチャーを扱う総合メディア。ツアーレポートやライブレポートが頻繁に更新され、gqjapan.jpやeyescream.jpに近い総合カルチャーニュース系統
 - [TURN](https://turntokyo.com/) — 海外インディー音楽を軸にしたカルチャーメディア。ミュージシャンへの署名インタビュー・レビューが並び、ele-king.netやcinra.netに近い批評性
@@ -73,6 +63,16 @@ updated: 2026-08-02
 - [amass](https://amass.jp/) — 2007年創刊の独立系音楽ニュースサイト。バンドヒストリーやドキュメンタリーの紹介が多く、ele-king.netやturntokyo.comに近い音楽カルチャー系統
 - [KAI-YOU.net](https://kai-you.net/) — 現代アート・デザイン・インターネットカルチャーを横断するメディア。日々更新され、niewmedia.comに近い守備範囲
 - [Rooftop](https://rooftop1976.com/) — 1976年創刊、ライブハウス発のインディーズ音楽カルチャー誌のWeb版。バンドインタビューが充実し、skream.jpやspincoaster.comに近い
+- [装苑オンライン](https://soen.tokyo/) — 文化出版局『装苑』のWeb版。コレクション総括やデザイナー取材、作家のアトリエ訪問など編集記事が日々更新され、ginzamag.comやvogue.co.jpに近いモード誌
+- [ACROSS](https://www.web-across.com/) — パルコの調査メディア。渋谷・新宿の月次ストリート定点観測と連載「モードの思想」など独自の観察と考察があり、古着・ストリート文化の文脈でhouyhnhnm.jpに近い
+- [Re:minder](https://reminder.top/) — 80年代を中心に日本のポップス史を「カタリベ」の署名コラムで掘り下げる音楽メディア。細野晴臣プロデュース作品など日本の音楽史への関心に直結
+- [ARBAN](https://www.arban-mag.com/) — ジャズ／ソウル中心の音楽カルチャー誌。新作アルバムの丁寧なインタビューやレコードバー紹介、名盤解説があり、mikiki.tokyo.jpやturntokyo.comに近い
+- [uDiscoverMusic Japan](https://www.udiscovermusic.jp/) — ユニバーサル運営の洋楽メディア日本版。名盤の背景やバンド史を辿る長めの連載コラム（U2など）が多く、音楽ドキュメンタリー・バンドヒストリーへの関心に合う
+- [Eye Magazine blog](https://www.eyemagazine.com/blog) — 英国のグラフィックデザイン批評誌Eyeのブログ。書籍・タイポグラフィ・エディトリアルデザインの署名記事が更新され、ブックデザインへの関心とitsnicethat.comに近い
+- [Selvedge](https://www.selvedge.org/blogs/selvedge) — 英国のテキスタイル専門誌のオンライン記事。展覧会評や作り手の紹介が毎日更新され、工芸・テキスタイル・北欧テキスタイルへの関心に合う
+- [Ivy Style](https://www.ivy-style.com/) — アイビー／トラッドの歴史とブランド（J.Press、Andover Shop等）を語る英語の独立系メディア。服の背景や名品の来歴を掘る点でputthison.comやheddels.comに近い
+- [Vestoj](https://vestoj.com/) — 服と社会を論じる独立系のファッション批評誌。長文の署名エッセイが継続的に公開され、032c.comやofficemagazine.netに近い知的なファッション誌
+- [ARToVILLA](https://artovilla.jp/) — 大丸松坂屋のアートメディア。アートフェアのレポート、作家連載「作家のB面」、街中アート探訪記など現代アート・パブリックアートを書き手の視点で紹介する
 - [OTOTOY](https://ototoy.jp/features/) — 音楽配信サイト内の特集記事欄。アーティストインタビュー・レビューが無料で読め、mikiki.tokyo.jpに近い音楽ジャーナリズム
 - [smart Web](https://smartmag.jp/archives/tag/vintage/) — 男性ファッション誌smartのWeb版、古着・ヴィンテージ欄。古着店店主・スタッフへの取材記事が多く、fudge.jpに近い古着・アメカジの編集姿勢
 - [ARTnews JAPAN](https://www.artnewsjapan.com/) — 美術専門メディアの日本版。コラム・ニュース・展覧会記事が毎日更新され、現代アートへの関心に直結
@@ -93,7 +93,5 @@ updated: 2026-08-02
 - [Slant Magazine](https://www.slantmagazine.com/) — 映画・音楽の批評メディア。署名レビューや特集が連日更新され、reverseshot.orgやcinemore.jpに近い批評の質
 - [The Wire](https://www.thewire.co.uk/) — 1982年創刊の英国の前衛音楽誌。インタビュー・エッセイ・追悼文を無料公開しており、ele-king.netやthequietus.comに近い
 - [SURFACE](https://www.surfacemag.com/) — デザイン・建築・アート・ファッションを横断する米国誌。デザイナー特集や署名記事が2026年10月も更新、casabrutus.comに近い
-- [IMA ONLINE](https://imaonline.jp/) — 写真・アート専門メディア。「いけばなと写真」インタヴューなど独自取材記事があり、写真展巡りの関心に直結。pen-online.jpに近い質感
 - [Heddels](https://heddels.com/) — デニム・ワークウェア・ヴィンテージ文化を扱う専門メディア。実物のフェード写真や独自レビューが中心で、デニム・ヴィンテージへの関心に直結
-- [madame FIGARO japon](https://madamefigaro.jp/) — コンデナスト運営のファッション・カルチャー誌。独占インタビューなど取材記事が並び、vogue.co.jpやgqjapan.jpに近い
 <!-- END cowork:discovered -->

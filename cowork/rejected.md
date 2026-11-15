@@ -161,3 +161,22 @@ https://lmaga.jp/ — 関西のイベント・グルメ速報中心で生活圏�
 https://www.mastered.com/ — 研修サービス企業のサイトでメディアではない
 https://www.rogerebert.com/ — 403 Forbiddenでアクセス不可、確認できず
 https://www.criterion.com/current — 403 Forbiddenでアクセス不可、確認できず
+- https://therakejapan.com/ — ブランドのタイアップ記事が中心で更新頻度も低く、書き手の独自視点が乏しい
+- https://www.snrec.jp/ — DTM機材レビュー・制作講座が中心で、見本のカルチャー誌と系統が異なる
+- https://qjweb.jp/ — アイドル・芸人の表紙告知やタイアップ企画が中心で、見本の系統から外れる
+- https://web.goout.jp/ — PR記事・商品紹介が多く、独自視点の編集記事が少ない
+- https://guitarmagazine.jp/ — 有料会員制の記事が混在し、無料で全文読めるか確認できず
+- https://www.kurashi-no-techo.co.jp/ — 出版社の書籍・物販告知サイトで、編集記事の一覧が無い
+- https://asm.asahi.com/ — 「◯選」形式の商品紹介やPR記事が多い
+- https://www.funq.jp/ — 自動車・アウトドア等のタイアップ記事が中心
+- https://www.hillslife.jp/ — 森ビルのタウン誌でPR・グルメ記事が多く、見本の系統と少し異なる
+- https://mag.japaaan.com/ — 歴史雑学記事が中心で、興味領域から外れる
+- https://the-brandidentity.com/ — 企業ブランディング事例とテンプレート販売が中心で、見本の系統と異なる
+- https://www.themodernhouse.com/journal/ — 403 Forbiddenでアクセス不可、確認できず
+- https://www.grailed.com/drycleanonly — 403 Forbiddenでアクセス不可、確認できず
+- https://www.designweek.co.uk/ — 403 Forbiddenでアクセス不可、確認できず
+- https://fashionista.com/ — 403 Forbiddenでアクセス不可、確認できず
+- https://www.craftscouncil.org.uk/stories — 403 Forbiddenでアクセス不可、確認できず
+- https://www.typeroom.eu/ — 500エラーでアクセス不可、確認できず
+- https://music-calendar.jp/ — 接続できず確認できず
+- https://www.mensclub.jp/ — 接続できず確認できず
