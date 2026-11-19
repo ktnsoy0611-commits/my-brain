@@ -100,3 +100,4 @@
 - https://www.web-across.com/
 - https://reminder.top/
 - https://www.udiscovermusic.jp/
+- https://www.eyemagazine.com/blog
