@@ -101,3 +101,4 @@
 - https://reminder.top/
 - https://www.udiscovermusic.jp/
 - https://www.eyemagazine.com/blog
+- https://www.selvedge.org/blogs/selvedge
