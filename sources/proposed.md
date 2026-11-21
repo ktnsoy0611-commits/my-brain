@@ -103,3 +103,4 @@
 - https://www.eyemagazine.com/blog
 - https://www.selvedge.org/blogs/selvedge
 - https://www.ivy-style.com/
+- https://vestoj.com/
