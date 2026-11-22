@@ -104,3 +104,4 @@
 - https://www.selvedge.org/blogs/selvedge
 - https://www.ivy-style.com/
 - https://vestoj.com/
+- https://artovilla.jp/
