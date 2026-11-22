@@ -66,6 +66,10 @@ updated: 2026-08-02
 - [装苑オンライン](https://soen.tokyo/) — 文化出版局『装苑』のWeb版。コレクション総括やデザイナー取材、作家のアトリエ訪問など編集記事が日々更新され、ginzamag.comやvogue.co.jpに近いモード誌
 - [ACROSS](https://www.web-across.com/) — パルコの調査メディア。渋谷・新宿の月次ストリート定点観測と連載「モードの思想」など独自の観察と考察があり、古着・ストリート文化の文脈でhouyhnhnm.jpに近い
 - [Re:minder](https://reminder.top/) — 80年代を中心に日本のポップス史を「カタリベ」の署名コラムで掘り下げる音楽メディア。細野晴臣プロデュース作品など日本の音楽史への関心に直結
+- [Vintage Guitar](https://www.vintageguitar.com/) — 1986年創刊のヴィンテージギター専門誌のWeb版。楽器史・名器の来歴やギタリスト取材の署名記事が無料で読め、guitar.comやudiscovermusic.comに近く、ギターを極める目標とヴィンテージ志向の両方に合う
+- [Aperture](https://aperture.org/editorial/) — NYの写真財団Apertureの編集記事欄。クーデルカやフリードランダーなど写真家への長文インタビュー・エッセイが署名入りで更新され、imaonline.jpに近い写真・写真展への関心に直結
+- [CreativeApplications.Net](https://www.creativeapplications.net/) — 2008年創刊のメディアアート／クリエイティブコーディング専門メディア。作品の仕組みや作家の意図を解説する記事が日々更新され、デジタルアート・メディアアートへの関心とwired.jpやaxismag.jpに近い
+- [美術展ナビ](https://artexhibition.jp/) — 読売新聞社の美術展メディア。東京近郊の展覧会レポート・プレビューや連載コラムが毎日更新され、美術館巡り・展覧会鑑賞と東京の生活圏に直結
 - [ARBAN](https://www.arban-mag.com/) — ジャズ／ソウル中心の音楽カルチャー誌。新作アルバムの丁寧なインタビューやレコードバー紹介、名盤解説があり、mikiki.tokyo.jpやturntokyo.comに近い
 - [uDiscoverMusic Japan](https://www.udiscovermusic.jp/) — ユニバーサル運営の洋楽メディア日本版。名盤の背景やバンド史を辿る長めの連載コラム（U2など）が多く、音楽ドキュメンタリー・バンドヒストリーへの関心に合う
 - [Eye Magazine blog](https://www.eyemagazine.com/blog) — 英国のグラフィックデザイン批評誌Eyeのブログ。書籍・タイポグラフィ・エディトリアルデザインの署名記事が更新され、ブックデザインへの関心とitsnicethat.comに近い

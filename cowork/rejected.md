@@ -180,3 +180,16 @@ https://www.criterion.com/current — 403 Forbiddenでアクセス不可、確�
 - https://www.typeroom.eu/ — 500エラーでアクセス不可、確認できず
 - https://music-calendar.jp/ — 接続できず確認できず
 - https://www.mensclub.jp/ — 接続できず確認できず
+- https://www.droptokyo.com/ — 東京のストリートスナップ媒体だが、直近はスポンサード（タイアップ）のスナップや新店・コラボ告知が中心で、本文の独自情報が薄い
+- https://www.gq.com/ — 「今週買うべき20品」等の買い物リストやセレブ記事が多く、gqjapan.jpと重複気味で系統がずれる
+- https://kunel-salon.com/ — 占い・著名人の私服・動物の話題が中心で、興味の領域と離れる
+- https://www.interviewmagazine.com/ — セレブ対談が中心で有料パートナー記事も混在し、興味の領域と離れる
+- https://www.hero-magazine.com/ — 記事ページの本文が取得できず（JS読み込み）、内容を確認できず
+- https://www.styleforum.net/ — 403 Forbiddenでアクセス不可、確認できず
+- https://www.archpaper.com/ — 403 Forbiddenでアクセス不可、確認できず
+- https://papersky.jp/ — 429でアクセス不可、確認できず
+- https://fasu.jp/ — 接続できず確認できず
+- https://themmagazine.jp/ — 接続できず確認できず
+- https://www.inventorymagazine.com/ — 接続できず確認できず
+- https://touron.aij.or.jp/ — 接続できず確認できず
+- https://www.gupmagazine.com/ — 接続できず確認できず
