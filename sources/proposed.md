@@ -107,3 +107,4 @@
 - https://artovilla.jp/
 - https://www.vintageguitar.com/
 - https://aperture.org/editorial/
+- https://www.creativeapplications.net/
