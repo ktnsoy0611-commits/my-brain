@@ -106,3 +106,4 @@
 - https://vestoj.com/
 - https://artovilla.jp/
 - https://www.vintageguitar.com/
+- https://aperture.org/editorial/
